@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="https://coolandcool.inventivemind.com.pk/xmlrpc.php">
+	<link rel="pingback" href="xmlrpc.php">
 
-			<script>window.MSInputMethodContext && document.documentMode && document.write('<script src="https://coolandcool.inventivemind.com.pk/wp-content/themes/woodmart/js/libs/ie11CustomProperties.min.js"><\/script>');</script>
+			<script>window.MSInputMethodContext && document.documentMode && document.write('<script src="wp-content/themes/woodmart/js/libs/ie11CustomProperties.min.js"><\/script>');</script>
 		<title>Cool &amp; Cool &#8211; Cool and Cool Pakistan</title>
 <meta name='robots' content='max-image-preview:large'>
 <link rel='dns-prefetch' href='//fonts.googleapis.com'>
@@ -148,7 +148,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					</span>
 	</a>
 						<div class="wd-search-dropdown wd-dropdown">
-								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="https://coolandcool.inventivemind.com.pk/" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
 					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products">
 					<input type="hidden" name="post_type" value="product">
 										<button type="submit" class="searchsubmit">
@@ -427,7 +427,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 <div class="product-element-top">
 	<a href="product/cool-cool-shower-gel-500ml-fruity-fresh/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch.png" data-srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch.png 1000w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w">	</a>
+		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="wp-content/uploads/2022/10/Delicate-Touch.png" data-srcset="wp-content/uploads/2022/10/Delicate-Touch.png 1000w, wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w">	</a>
 	
 	<div class="top-information wd-fill">
 
@@ -460,7 +460,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 <div class="product-element-top">
 	<a href="product/disinfectant-hand-wash-500ml/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash.png" data-srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash.png 1000w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-600x600.png 600w">	</a>
+		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="wp-content/uploads/2022/09/Hand-Wash.png" data-srcset="wp-content/uploads/2022/09/Hand-Wash.png 1000w, wp-content/uploads/2022/09/Hand-Wash-300x300.png 300w, wp-content/uploads/2022/09/Hand-Wash-150x150.png 150w, wp-content/uploads/2022/09/Hand-Wash-768x768.png 768w, wp-content/uploads/2022/09/Hand-Wash-600x600.png 600w">	</a>
 	
 	<div class="top-information wd-fill">
 
@@ -493,7 +493,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 <div class="product-element-top">
 	<a href="product/disinfectant-wipes-10s-2/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Isopropyl-Alcohol.png" data-srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Isopropyl-Alcohol.png 1000w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Isopropyl-Alcohol-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Isopropyl-Alcohol-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Isopropyl-Alcohol-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Isopropyl-Alcohol-600x600.png 600w">	</a>
+		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="wp-content/uploads/2022/09/Isopropyl-Alcohol.png" data-srcset="wp-content/uploads/2022/09/Isopropyl-Alcohol.png 1000w, wp-content/uploads/2022/09/Isopropyl-Alcohol-300x300.png 300w, wp-content/uploads/2022/09/Isopropyl-Alcohol-150x150.png 150w, wp-content/uploads/2022/09/Isopropyl-Alcohol-768x768.png 768w, wp-content/uploads/2022/09/Isopropyl-Alcohol-600x600.png 600w">	</a>
 	
 	<div class="top-information wd-fill">
 
@@ -526,7 +526,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 <div class="product-element-top">
 	<a href="product/max-fresh-hand-sanitizer-tube-100ml/index.htm" class="product-image-link">
-		<img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Sanitizer.png" data-srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Sanitizer.png 1000w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Sanitizer-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Sanitizer-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Sanitizer-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Sanitizer-600x600.png 600w">	</a>
+		<img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="wp-content/uploads/2022/09/Sanitizer.png" data-srcset="wp-content/uploads/2022/09/Sanitizer.png 1000w, wp-content/uploads/2022/09/Sanitizer-300x300.png 300w, wp-content/uploads/2022/09/Sanitizer-150x150.png 150w, wp-content/uploads/2022/09/Sanitizer-768x768.png 768w, wp-content/uploads/2022/09/Sanitizer-600x600.png 600w">	</a>
 	
 	<div class="top-information wd-fill">
 
@@ -559,7 +559,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 <div class="product-element-top">
 	<a href="product/nourishing-face-wash-neem-200ml/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-25%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Magical-Comfort.png" data-srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Magical-Comfort.png 1000w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Magical-Comfort-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Magical-Comfort-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Magical-Comfort-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Magical-Comfort-600x600.png 600w">	</a>
+		<div class="product-labels labels-rounded"><span class="onsale product-label">-25%</span></div><img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="wp-content/uploads/2022/10/Magical-Comfort.png" data-srcset="wp-content/uploads/2022/10/Magical-Comfort.png 1000w, wp-content/uploads/2022/10/Magical-Comfort-300x300.png 300w, wp-content/uploads/2022/10/Magical-Comfort-150x150.png 150w, wp-content/uploads/2022/10/Magical-Comfort-768x768.png 768w, wp-content/uploads/2022/10/Magical-Comfort-600x600.png 600w">	</a>
 	
 	<div class="top-information wd-fill">
 
@@ -592,7 +592,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 <div class="product-element-top">
 	<a href="product/travelling-hand-sanitizer-tube-100ml/index.htm" class="product-image-link">
-		<img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Travelling.png" data-srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Travelling.png 1000w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Travelling-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Travelling-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Travelling-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Travelling-600x600.png 600w">	</a>
+		<img width="1000" height="1000" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" srcset="" sizes="(max-width: 1000px) 100vw, 1000px" data-wood-src="wp-content/uploads/2022/10/Travelling.png" data-srcset="wp-content/uploads/2022/10/Travelling.png 1000w, wp-content/uploads/2022/10/Travelling-300x300.png 300w, wp-content/uploads/2022/10/Travelling-150x150.png 150w, wp-content/uploads/2022/10/Travelling-768x768.png 768w, wp-content/uploads/2022/10/Travelling-600x600.png 600w">	</a>
 	
 	<div class="top-information wd-fill">
 
@@ -899,7 +899,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 							<div class="post-img-wrapp">
 								<a href="beat-blemishes-look-gorgeous-control-acne-and-start-good-skincare-habits-for-life/index.htm">
-									<img width="564" height="310" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/BLOG_IMAGES1-1-1-1.jpg" srcset="">								</a>
+									<img width="564" height="310" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="wp-content/uploads/2022/09/BLOG_IMAGES1-1-1-1.jpg" srcset="">								</a>
 							</div>
 							<div class="post-image-mask">
 								<span></span>
@@ -966,7 +966,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 						
 							<div class="post-img-wrapp">
 								<a href="how-to-choose-baby-wipes/index.htm">
-									<img width="564" height="310" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Choose-Baby-Wipes-1-1-1.jpg" srcset="">								</a>
+									<img width="564" height="310" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="wp-content/uploads/2022/09/Choose-Baby-Wipes-1-1-1.jpg" srcset="">								</a>
 							</div>
 							<div class="post-image-mask">
 								<span></span>
@@ -1037,7 +1037,7 @@ Baby Wipes are one of the essentials, a mother needs just right from her baby’
 						
 							<div class="post-img-wrapp">
 								<a href="a-mothers-guide-to-a-healthy-start/index.htm">
-									<img width="564" height="310" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/BLOG_IMAGES3-1-1-1.jpg" srcset="">								</a>
+									<img width="564" height="310" src="wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="wp-content/uploads/2022/09/BLOG_IMAGES3-1-1-1.jpg" srcset="">								</a>
 							</div>
 							<div class="post-image-mask">
 								<span></span>
@@ -1180,7 +1180,7 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 <div class="wd-close-side"></div>
 			<a href="#" class="scrollToTop"></a>
 		<div class="mobile-nav wd-side-hidden wd-left">			<div class="wd-search-form">
-								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="https://coolandcool.inventivemind.com.pk/" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
 					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products">
 					<input type="hidden" name="post_type" value="product">
 										<button type="submit" class="searchsubmit">
@@ -1211,15 +1211,15 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 				<div class="widget woocommerce widget_shopping_cart">
 					<div class="widget_shopping_cart_content" style="opacity: 1;">
 						<div class="shopping-cart-widget-body wd-scroll">
-							<div class="wd-scroll-content">
+							<div class="wd-scroll-content" id="wd-scroll-content-id">
 						
 											
 									<ul class="cart_list product_list_widget woocommerce-mini-cart ">
 						
 																	<li class="woocommerce-mini-cart-item mini_cart_item" data-key="4440d927e935e3273252c4be793c9152">
-														<a href="https://coolandcool.inventivemind.com.pk/product/disinfectant-hand-wash-500ml/" class="cart-item-link wd-fill">Show</a>
-														<a href="https://coolandcool.inventivemind.com.pk/cart/?remove_item=4440d927e935e3273252c4be793c9152&amp;_wpnonce=a60bed8622" class="remove remove_from_cart_button" aria-label="Remove this item" data-product_id="11738" data-cart_item_key="4440d927e935e3273252c4be793c9152" data-product_sku="">×</a>																	<a href="https://coolandcool.inventivemind.com.pk/product/disinfectant-hand-wash-500ml/" class="cart-item-image">
-																<img width="600" height="600" src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-600x600.png 600w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Hand-Wash.png 1000w" sizes="(max-width: 600px) 100vw, 600px">									</a>
+														<a href="product/disinfectant-hand-wash-500ml/" class="cart-item-link wd-fill">Show</a>
+														<a href="#" class="remove remove_from_cart_button" aria-label="Remove this item" data-product_id="11738" data-cart_item_key="4440d927e935e3273252c4be793c9152" data-product_sku="" data-price="440" onclick="removeProductFromCart(this)">×</a>																	<a href="product/disinfectant-hand-wash-500ml/" class="cart-item-image">
+																<img width="600" height="600" src="wp-content/uploads/2022/09/Hand-Wash-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2022/09/Hand-Wash-600x600.png 600w, wp-content/uploads/2022/09/Hand-Wash-300x300.png 300w, wp-content/uploads/2022/09/Hand-Wash-150x150.png 150w, wp-content/uploads/2022/09/Hand-Wash-768x768.png 768w, wp-content/uploads/2022/09/Hand-Wash.png 1000w" sizes="(max-width: 600px) 100vw, 600px">									</a>
 																						
 														<div class="cart-info">
 															<span class="wd-entities-title">
@@ -1230,9 +1230,9 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 						
 													</li>
 																				<li class="woocommerce-mini-cart-item mini_cart_item" data-key="bddcda5d65fcfdec9de3838794a77265">
-														<a href="https://coolandcool.inventivemind.com.pk/product/cool-cool-shower-gel-500ml-fruity-fresh/" class="cart-item-link wd-fill">Show</a>
-														<a href="https://coolandcool.inventivemind.com.pk/cart/?remove_item=bddcda5d65fcfdec9de3838794a77265&amp;_wpnonce=a60bed8622" class="remove remove_from_cart_button" aria-label="Remove this item" data-product_id="11741" data-cart_item_key="bddcda5d65fcfdec9de3838794a77265" data-product_sku="">×</a>																	<a href="https://coolandcool.inventivemind.com.pk/product/cool-cool-shower-gel-500ml-fruity-fresh/" class="cart-item-image">
-																<img width="600" height="600" src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch.png 1000w" sizes="(max-width: 600px) 100vw, 600px">									</a>
+														<a href="product/cool-cool-shower-gel-500ml-fruity-fresh/" class="cart-item-link wd-fill">Show</a>
+														<a href="#" class="remove remove_from_cart_button" aria-label="Remove this item" data-product_id="11741" data-cart_item_key="bddcda5d65fcfdec9de3838794a77265" data-product_sku="" data-price="512" onclick="removeProductFromCart(this)">×</a>																	<a href="product/cool-cool-shower-gel-500ml-fruity-fresh/" class="cart-item-image">
+																<img width="600" height="600" src="wp-content/uploads/2022/10/Delicate-Touch-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w, wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, wp-content/uploads/2022/10/Delicate-Touch.png 1000w" sizes="(max-width: 600px) 100vw, 600px">									</a>
 																						
 														<div class="cart-info">
 															<span class="wd-entities-title">
@@ -1251,10 +1251,10 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 						<div class="shopping-cart-widget-footer">
 							
 											<p class="woocommerce-mini-cart__total total">
-										<strong>Subtotal:</strong> <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span>952.00</bdi></span>			</p>
+										<strong>Subtotal:</strong> <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">$</span><span class="subTotal" >952.00</span></bdi></span>			</p>
 								
 								
-								<p class="woocommerce-mini-cart__buttons buttons"><a href="https://coolandcool.inventivemind.com.pk/cart/" class="button btn-cart wc-forward">View cart</a><a href="https://coolandcool.inventivemind.com.pk/checkout/" class="button checkout wc-forward wp-element-button">Checkout</a></p>
+								<p class="woocommerce-mini-cart__buttons buttons"><a href="cart/" class="button btn-cart wc-forward">View cart</a><a href="checkout/" class="button checkout wc-forward wp-element-button">Checkout</a></p>
 						
 								
 							
@@ -1286,6 +1286,26 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
 			document.body.className = c;
 		})();
+
+		function removeProductFromCart(_this){
+			data = jQuery(_this).data();
+			price = parseFloat(data.price);
+			subtotal = parseFloat(jQuery('.subTotal').text()).toFixed(2);
+			jQuery('.subTotal').text(parseFloat(subtotal-price).toFixed(2));
+			jQuery(_this).parent().remove();
+			no_of_products = jQuery(".woocommerce-mini-cart-item").length;
+			if(no_of_products < 1){
+				console.log('in here');
+				strElem = `<div class="wd-empty-mini-cart">
+				<p class="woocommerce-mini-cart__empty-message empty title">No products in the cart.</p>
+									<a class="btn btn-size-small btn-color-primary wc-backward" href="shop/">
+						Return To Shop					</a>
+							</div>`;
+				jQuery("#wd-scroll-content-id").html(strElem);
+				jQuery(".shopping-cart-widget-footer").empty()
+			}
+			return false;
+		}
 	</script>
 	<script>
 		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}

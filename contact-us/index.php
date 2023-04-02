@@ -3,15 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="https://coolandcool.inventivemind.com.pk/xmlrpc.php">
+	<link rel="pingback" href="xmlrpc.php">
 
-			<script>window.MSInputMethodContext && document.documentMode && document.write('<script src="https://coolandcool.inventivemind.com.pk/wp-content/themes/woodmart/js/libs/ie11CustomProperties.min.js"><\/script>');</script>
-		<title>Products &#8211; Cool &amp; Cool</title>
+			<script>window.MSInputMethodContext && document.documentMode && document.write('<script src="wp-content/themes/woodmart/js/libs/ie11CustomProperties.min.js"><\/script>');</script>
+		<title>Contact Us &#8211; Cool &amp; Cool</title>
 <meta name='robots' content='max-image-preview:large'>
 <link rel='dns-prefetch' href='//fonts.googleapis.com'>
 <link rel="alternate" type="application/rss+xml" title="Cool &amp; Cool &raquo; Feed" href="../feed/index.htm">
 <link rel="alternate" type="application/rss+xml" title="Cool &amp; Cool &raquo; Comments Feed" href="../comments/feed/index.htm">
-<link rel="alternate" type="application/rss+xml" title="Cool &amp; Cool &raquo; Products Feed" href="feed/index.htm">
 <link rel='stylesheet' id='wp-block-library-css' href='../wp-includes/css/dist/block-library/style.min.css?ver=6.2' type='text/css' media='all'>
 <link rel='stylesheet' id='wc-blocks-vendors-style-css' href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wc-blocks-style-css' href='../wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5' type='text/css' media='all'>
@@ -28,6 +27,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' type='text/css' media='all'>
 <link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.6' type='text/css' media='all'>
 <link rel='stylesheet' id='elementor-post-8-css' href='../wp-content/uploads/elementor/css/post-8.css?ver=1663310708' type='text/css' media='all'>
+<link rel='stylesheet' id='elementor-post-646-css' href='../wp-content/uploads/elementor/css/post-646.css?ver=1664467229' type='text/css' media='all'>
 <link rel='stylesheet' id='bootstrap-css' href='../wp-content/themes/woodmart/css/bootstrap.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='woodmart-style-css' href='../wp-content/themes/woodmart/css/parts/base.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-widget-wd-recent-posts-css' href='../wp-content/themes/woodmart/css/parts/widget-wd-recent-posts.min.css?ver=6.1.5' type='text/css' media='all'>
@@ -42,8 +42,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='wd-revolution-slider-css' href='../wp-content/themes/woodmart/css/parts/int-revolution-slider.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-elementor-base-css' href='../wp-content/themes/woodmart/css/parts/int-elementor-base.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-woocommerce-base-css' href='../wp-content/themes/woodmart/css/parts/woocommerce-base.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-page-shop-css' href='../wp-content/themes/woodmart/css/parts/woo-page-shop.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-widget-active-filters-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-active-filters.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='child-style-css' href='../wp-content/themes/woodmart-child/style.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-header-base-css' href='../wp-content/themes/woodmart/css/parts/header-base.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-mod-tools-css' href='../wp-content/themes/woodmart/css/parts/mod-tools.min.css?ver=6.1.5' type='text/css' media='all'>
@@ -51,28 +49,26 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='wd-header-cart-side-css' href='../wp-content/themes/woodmart/css/parts/header-el-cart-side.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-header-cart-css' href='../wp-content/themes/woodmart/css/parts/header-el-cart.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-widget-shopping-cart-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-shopping-cart.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-page-title-css' href='../wp-content/themes/woodmart/css/parts/page-title.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-shop-title-categories-css' href='../wp-content/themes/woodmart/css/parts/woo-opt-shop-title-categories.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-off-canvas-sidebar-css' href='../wp-content/themes/woodmart/css/parts/opt-off-canvas-sidebar.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-shop-filter-area-css' href='../wp-content/themes/woodmart/css/parts/woo-opt-shop-filter-area.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-sticky-loader-css' href='../wp-content/themes/woodmart/css/parts/mod-sticky-loader.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-product-loop-css' href='../wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-product-loop-quick-css' href='../wp-content/themes/woodmart/css/parts/woo-product-loop-quick.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-categories-loop-css' href='../wp-content/themes/woodmart/css/parts/woo-categories-loop.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-categories-loop-center-css' href='../wp-content/themes/woodmart/css/parts/woo-categories-loop-center.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-mfp-popup-css' href='../wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-add-to-cart-popup-css' href='../wp-content/themes/woodmart/css/parts/woo-opt-add-to-cart-popup.min.css?ver=6.1.5' type='text/css' media='all'>
+<link rel='stylesheet' id='wd-map-css' href='../wp-content/themes/woodmart/css/parts/el-map.min.css?ver=6.1.5' type='text/css' media='all'>
+<link rel='stylesheet' id='wd-info-box-css' href='../wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=6.1.5' type='text/css' media='all'>
+<link rel='stylesheet' id='wd-section-title-css' href='../wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-scroll-top-css' href='../wp-content/themes/woodmart/css/parts/opt-scrolltotop.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='xts-style-header_755968-css' href='../wp-content/uploads/2022/10/xts-header_755968-1664647934.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='xts-style-theme_settings_default-css' href='../wp-content/uploads/2022/11/xts-theme_settings_default-1669234821.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='xts-google-fonts-css' href='../css?family=Montserrat%3A400%2C600%2C700&#038;ver=6.1.5' type='text/css' media='all'>
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all'>
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all'>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/device.min.js?ver=6.1.5' id='wd-device-library-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.htm"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
+<link rel="https://api.w.org/" href="../wp-json/index.htm"><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/646"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2">
 <meta name="generator" content="WooCommerce 7.1.0">
+<link rel="canonical" href="index.htm">
+<link rel='shortlink' href='index.htm?p=646'>
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed-6?url=https%3A%2F%2Fcoolandcool.inventivemind.com.pk%2Fcontact-us%2F">
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed-7?url=https%3A%2F%2Fcoolandcool.inventivemind.com.pk%2Fcontact-us%2F&#038;format=xml">
 <meta name="theme-color" content="">					<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 							
 						<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
@@ -130,7 +126,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		
 		</style></head>
 
-<body class="archive post-type-archive post-type-archive-product theme-woodmart woocommerce-shop woocommerce woocommerce-page woocommerce-no-js wrapper-full-width  categories-accordion-on woodmart-archive-shop woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet elementor-default elementor-kit-8">
+<body class="page-template-default page page-id-646 theme-woodmart woocommerce-no-js wrapper-full-width  categories-accordion-on woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet elementor-default elementor-kit-8 elementor-page elementor-page-646">
 			<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>	
 	
 	<div class="website-wrapper">
@@ -147,7 +143,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					</span>
 	</a>
 						<div class="wd-search-dropdown wd-dropdown">
-								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="https://coolandcool.inventivemind.com.pk/" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
 					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products">
 					<input type="hidden" name="post_type" value="product">
 										<button type="submit" class="searchsubmit">
@@ -165,7 +161,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			</div>
 <div class="wd-header-nav wd-header-secondary-nav text-right" role="navigation">
 	<ul id="menu-main-left-menu" class="menu wd-nav wd-nav-secondary wd-style-underline"><li id="menu-item-12268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12268 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../about-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">About Us</span></a></li>
-<li id="menu-item-11601" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-11601 item-level-0 menu-simple-dropdown wd-event-hover"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">Product</span></a></li>
+<li id="menu-item-11601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11601 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../shop/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Product</span></a></li>
 </ul></div><!--END MAIN-NAV-->
 </div>
 <div class="whb-column whb-col-center whb-visible-lg">
@@ -178,7 +174,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="whb-column whb-col-right whb-visible-lg">
 	<div class="wd-header-nav wd-header-secondary-nav text-left" role="navigation">
 	<ul id="menu-main-right-menu" class="menu wd-nav wd-nav-secondary wd-style-underline"><li id="menu-item-12307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12307 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../media/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Media</span></a></li>
-<li id="menu-item-12047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12047 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../contact-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Contact Us</span></a></li>
+<li id="menu-item-12047" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-646 current_page_item menu-item-12047 item-level-0 menu-simple-dropdown wd-event-hover"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">Contact Us</span></a></li>
 </ul></div><!--END MAIN-NAV-->
 
 <div class="wd-header-cart wd-tools-element wd-design-5 cart-widget-opener">
@@ -233,428 +229,313 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 								<div class="main-page-wrapper">
 		
-											<div class="page-title page-title-default title-size-default title-design-centered color-scheme-light title-shop" style="background-image: url(../wp-content/uploads/2017/06/dummy-wood-title.jpg);">
-						<div class="container">
-
-								
-																	<h1 class="entry-title title">Shop</h1>
-								
-								<div class="wd-btn-show-cat wd-action-btn wd-style-text wd-chevron-icon"><a href="#" rel="nofollow">Categories</a></div><ul class="wd-nav-product-cat wd-nav wd-style-underline has-product-count"><li class="cat-link shop-all-link"><a class="category-nav-link" href="index.htm">
-				<span class="nav-link-summary">
-					<span class="nav-link-text">All</span>
-					<span class="nav-link-count">products</span>
-				</span>
-		</a></li>	<li class="cat-item cat-item-72 "><a class="category-nav-link" href="../product-category/baby-mother/index.htm"><span class="nav-link-summary"><span class="nav-link-text">Baby &amp; Mother</span><span class="nav-link-count">2 products</span></span></a>
-</li>
-	<li class="cat-item cat-item-70 "><a class="category-nav-link" href="../product-category/cleaning/index.htm"><span class="nav-link-summary"><span class="nav-link-text">Cleaning</span><span class="nav-link-count">1 product</span></span></a>
-</li>
-	<li class="cat-item cat-item-71 "><a class="category-nav-link" href="../product-category/fragrance/index.htm"><span class="nav-link-summary"><span class="nav-link-text">Fragrance</span><span class="nav-link-count">1 product</span></span></a>
-</li>
-	<li class="cat-item cat-item-74 "><a class="category-nav-link" href="../product-category/hygiene/index.htm"><span class="nav-link-summary"><span class="nav-link-text">Hygiene</span><span class="nav-link-count">1 product</span></span></a>
-</li>
-	<li class="cat-item cat-item-73 "><a class="category-nav-link" href="../product-category/skincare/index.htm"><span class="nav-link-summary"><span class="nav-link-text">Skincare</span><span class="nav-link-count">1 product</span></span></a>
-</li>
-</ul>						</div>
-					</div>
-				
-			
+		
 		<!-- MAIN CONTENT AREA -->
 				<div class="container">
 			<div class="row content-layout-wrapper align-items-start">
 				
-	
-<aside class="sidebar-container col-lg-3 col-md-3 col-12 order-last order-md-first sidebar-left area-sidebar-shop" role="complementary">
-			<div class="widget-heading">
-			<div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon">
-				<a href="#" rel="nofollow noopener">close</a>
-			</div>
-		</div>
-		<div class="widget-area">
-				<div id="woocommerce_product_categories-1" class="wd-widget widget sidebar-widget woocommerce widget_product_categories"><h5 class="widget-title">Categories</h5><ul class="product-categories"><li class="cat-item cat-item-72"><a href="../product-category/baby-mother/index.htm">Baby &amp; Mother</a></li>
-<li class="cat-item cat-item-70"><a href="../product-category/cleaning/index.htm">Cleaning</a></li>
-<li class="cat-item cat-item-71"><a href="../product-category/fragrance/index.htm">Fragrance</a></li>
-<li class="cat-item cat-item-74"><a href="../product-category/hygiene/index.htm">Hygiene</a></li>
-<li class="cat-item cat-item-73"><a href="../product-category/skincare/index.htm">Skincare</a></li>
-</ul></div><div id="woocommerce_price_filter-2" class="wd-widget widget sidebar-widget woocommerce widget_price_filter"><h5 class="widget-title">Filter by pricee</h5>
-<form method="get" action="https://coolandcool.inventivemind.com.pk/shop/">
-	<div class="price_slider_wrapper">
-		<div class="price_slider" style="display:none;"></div>
-		<div class="price_slider_amount" data-step="10">
-			<label class="screen-reader-text" for="min_price">Min price</label>
-			<input type="text" id="min_price" name="min_price" value="230" data-min="230" placeholder="Min price">
-			<label class="screen-reader-text" for="max_price">Max price</label>
-			<input type="text" id="max_price" name="max_price" value="520" data-max="520" placeholder="Max price">
-						<button type="submit" class="button wp-element-button">Filter</button>
-			<div class="price_label" style="display:none;">
-				Price: <span class="from"></span> &mdash; <span class="to"></span>
-			</div>
-						<div class="clear"></div>
-		</div>
-	</div>
-</form>
 
-</div><div id="woocommerce_products-4" class="wd-widget widget sidebar-widget woocommerce widget_products"><h5 class="widget-title">Products</h5><ul class="product_list_widget"><li>
-		<span class="widget-product-wrap">
-		<a href="../product/nourishing-face-wash-neem-200ml/index.htm" title="Nourishing Face Wash Neem 200ml" class="widget-product-img">
-			<img width="600" height="600" src="../wp-content/uploads/2022/10/Magical-Comfort-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/10/Magical-Comfort-600x600.png 600w, ../wp-content/uploads/2022/10/Magical-Comfort-300x300.png 300w, ../wp-content/uploads/2022/10/Magical-Comfort-150x150.png 150w, ../wp-content/uploads/2022/10/Magical-Comfort-768x768.png 768w, ../wp-content/uploads/2022/10/Magical-Comfort.png 1000w" sizes="(max-width: 600px) 100vw, 600px">		</a>
-		<span class="widget-product-info">
-			<a href="../product/nourishing-face-wash-neem-200ml/index.htm" title="Nourishing Face Wash Neem 200ml" class="wd-entities-title">
-				Nourishing Face Wash Neem 200ml			</a>
-													<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>459.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>344.25</bdi></span></ins></span>
-		</span>
-	</span>
-	</li>
-<li>
-		<span class="widget-product-wrap">
-		<a href="../product/cool-cool-shower-gel-500ml-fruity-fresh/index.htm" title="Cool &amp; Cool Shower Gel 500ml Fruity Fresh" class="widget-product-img">
-			<img width="600" height="600" src="../wp-content/uploads/2022/10/Delicate-Touch-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w, ../wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, ../wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, ../wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, ../wp-content/uploads/2022/10/Delicate-Touch.png 1000w" sizes="(max-width: 600px) 100vw, 600px">		</a>
-		<span class="widget-product-info">
-			<a href="../product/cool-cool-shower-gel-500ml-fruity-fresh/index.htm" title="Cool &amp; Cool Shower Gel 500ml Fruity Fresh" class="wd-entities-title">
-				Cool &amp; Cool Shower Gel 500ml Fruity Fresh			</a>
-													<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>640.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>512.00</bdi></span></ins></span>
-		</span>
-	</span>
-	</li>
-<li>
-		<span class="widget-product-wrap">
-		<a href="../product/disinfectant-hand-wash-500ml/index.htm" title="Disinfectant Hand Wash 500ml" class="widget-product-img">
-			<img width="600" height="600" src="../wp-content/uploads/2022/09/Hand-Wash-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/09/Hand-Wash-600x600.png 600w, ../wp-content/uploads/2022/09/Hand-Wash-300x300.png 300w, ../wp-content/uploads/2022/09/Hand-Wash-150x150.png 150w, ../wp-content/uploads/2022/09/Hand-Wash-768x768.png 768w, ../wp-content/uploads/2022/09/Hand-Wash.png 1000w" sizes="(max-width: 600px) 100vw, 600px">		</a>
-		<span class="widget-product-info">
-			<a href="../product/disinfectant-hand-wash-500ml/index.htm" title="Disinfectant Hand Wash 500ml" class="wd-entities-title">
-				Disinfectant Hand Wash 500ml			</a>
-													<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>550.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>440.00</bdi></span></ins></span>
-		</span>
-	</span>
-	</li>
-<li>
-		<span class="widget-product-wrap">
-		<a href="../product/travelling-hand-sanitizer-tube-100ml/index.htm" title="Travelling Hand Sanitizer Tube 100ml" class="widget-product-img">
-			<img width="600" height="600" src="../wp-content/uploads/2022/10/Travelling-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/10/Travelling-600x600.png 600w, ../wp-content/uploads/2022/10/Travelling-300x300.png 300w, ../wp-content/uploads/2022/10/Travelling-150x150.png 150w, ../wp-content/uploads/2022/10/Travelling-768x768.png 768w, ../wp-content/uploads/2022/10/Travelling.png 1000w" sizes="(max-width: 600px) 100vw, 600px">		</a>
-		<span class="widget-product-info">
-			<a href="../product/travelling-hand-sanitizer-tube-100ml/index.htm" title="Travelling Hand Sanitizer Tube 100ml" class="wd-entities-title">
-				Travelling Hand Sanitizer Tube 100ml			</a>
-													<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>310.00</bdi></span></span>
-		</span>
-	</span>
-	</li>
-<li>
-		<span class="widget-product-wrap">
-		<a href="../product/max-fresh-hand-sanitizer-tube-100ml/index.htm" title="Max Fresh Hand Sanitizer Tube 100ml" class="widget-product-img">
-			<img width="600" height="600" src="../wp-content/uploads/2022/09/Sanitizer-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/09/Sanitizer-600x600.png 600w, ../wp-content/uploads/2022/09/Sanitizer-300x300.png 300w, ../wp-content/uploads/2022/09/Sanitizer-150x150.png 150w, ../wp-content/uploads/2022/09/Sanitizer-768x768.png 768w, ../wp-content/uploads/2022/09/Sanitizer.png 1000w" sizes="(max-width: 600px) 100vw, 600px">		</a>
-		<span class="widget-product-info">
-			<a href="../product/max-fresh-hand-sanitizer-tube-100ml/index.htm" title="Max Fresh Hand Sanitizer Tube 100ml" class="wd-entities-title">
-				Max Fresh Hand Sanitizer Tube 100ml			</a>
-													<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>310.00</bdi></span></span>
-		</span>
-	</span>
-	</li>
-</ul></div>			</div><!-- .widget-area -->
-</aside><!-- .sidebar-container -->
 
-<div class="site-content shop-content-area col-lg-9 col-12 col-md-9 description-area-before content-with-products" role="main">
-<div class="woocommerce-notices-wrapper"></div>
+<div class="site-content col-lg-12 col-12 col-md-12" role="main">
 
-<div class="shop-loop-head">
-	<div class="wd-shop-tools">
-					<nav class="woocommerce-breadcrumb"><a href="../index.htm" class="breadcrumb-link breadcrumb-link-last">Home</a><span class="breadcrumb-last"> Shop</span></nav>		
-		<p class="woocommerce-result-count">
-	Showing all 6 results</p>
-	</div>
-	<div class="wd-shop-tools">
-								<div class="wd-show-sidebar-btn wd-action-btn wd-style-text wd-menu-icon">
-				<a href="#" rel="nofollow">Show sidebar</a>
-			</div>
-		
-		<div class="wd-products-per-page">
-			<span class="per-page-title">
-				Show			</span>
+								<article id="post-646" class="post-646 page type-page status-publish hentry">
 
-											<a rel="nofollow noopener" href="index-1.htm?per_page=9" class="per-page-variation">
-					<span>
-						9					</span>
-				</a>
-				<span class="per-page-border"></span>
-											<a rel="nofollow noopener" href="index-2.htm?per_page=24" class="per-page-variation">
-					<span>
-						24					</span>
-				</a>
-				<span class="per-page-border"></span>
-											<a rel="nofollow noopener" href="index-3.htm?per_page=36" class="per-page-variation">
-					<span>
-						36					</span>
-				</a>
-				<span class="per-page-border"></span>
-					</div>
-				<div class="wd-products-shop-view products-view-grid">
+					<div class="entry-content">
+								<div data-elementor-type="wp-page" data-elementor-id="646" class="elementor elementor-646">
+									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-2783941 wd-section-stretch-content elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2783941" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6516759" data-id="6516759" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6972692 elementor-widget elementor-widget-wd_google_map" data-id="6972692" data-element_type="widget" data-widget_type="wd_google_map.default">
+				<div class="elementor-widget-container">
+					<div class="google-map-container map-container-with-content" data-map-args='{"latitude":"24.857683","longitude":"67.045615","zoom":15,"mouse_zoom":"no","init_type":"page_load","init_offset":"","json_style":"W3siZmVhdHVyZVR5cGUiOiJsYW5kc2NhcGUubWFuX21hZGUiLCJlbGVtZW50VHlwZSI6ImFsbCIsInN0eWxlcnMiOlt7ImNvbG9yIjoiI2ZhZjVlZCJ9LHsibGlnaHRuZXNzIjoiMCJ9LHsiZ2FtbWEiOiIxIn1dfSx7ImZlYXR1cmVUeXBlIjoicG9pLnBhcmsiLCJlbGVtZW50VHlwZSI6Imdlb21ldHJ5LmZpbGwiLCJzdHlsZXJzIjpbeyJjb2xvciI6IiNiYWU1YTYifV19LHsiZmVhdHVyZVR5cGUiOiJyb2FkIiwiZWxlbWVudFR5cGUiOiJhbGwiLCJzdHlsZXJzIjpbeyJ3ZWlnaHQiOiIxLjAwIn0seyJnYW1tYSI6IjEuOCJ9LHsic2F0dXJhdGlvbiI6IjAifV19LHsiZmVhdHVyZVR5cGUiOiJyb2FkIiwiZWxlbWVudFR5cGUiOiJnZW9tZXRyeS5maWxsIiwic3R5bGVycyI6W3siaHVlIjoiI2ZmYjIwMCJ9XX0seyJmZWF0dXJlVHlwZSI6InJvYWQuYXJ0ZXJpYWwiLCJlbGVtZW50VHlwZSI6Imdlb21ldHJ5LmZpbGwiLCJzdHlsZXJzIjpbeyJsaWdodG5lc3MiOiIwIn0seyJnYW1tYSI6IjEifV19LHsiZmVhdHVyZVR5cGUiOiJ0cmFuc2l0LnN0YXRpb24uYWlycG9ydCIsImVsZW1lbnRUeXBlIjoiYWxsIiwic3R5bGVycyI6W3siaHVlIjoiI2IwMDBmZiJ9LHsic2F0dXJhdGlvbiI6IjIzIn0seyJsaWdodG5lc3MiOiItNCJ9LHsiZ2FtbWEiOiIwLjgwIn1dfSx7ImZlYXR1cmVUeXBlIjoid2F0ZXIiLCJlbGVtZW50VHlwZSI6ImFsbCIsInN0eWxlcnMiOlt7ImNvbG9yIjoiI2EwZGFmMiJ9XX1d","marker_icon":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/inc\/admin\/assets\/images\/google-icon.png","elementor":true,"marker_text_needed":"no","marker_text":"<h3 style=\"min-width:300px; text-align:center; margin:15px;\"><\/h3>","selector":"wd-map-id-64288948a4fd4"}'>
 			
-												
-					<a rel="nofollow noopener" href="index-4.htm?shop_view=grid&#038;per_row=2" class="shop-view per-row-2">
-						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="19px" viewbox="0 0 19 19" enable-background="new 0 0 19 19" xml:space="preserve">
-	<path d="M7,2v5H2V2H7 M9,0H0v9h9V0L9,0z"></path>
-	<path d="M17,2v5h-5V2H17 M19,0h-9v9h9V0L19,0z"></path>
-	<path d="M7,12v5H2v-5H7 M9,10H0v9h9V10L9,10z"></path>
-	<path d="M17,12v5h-5v-5H17 M19,10h-9v9h9V10L19,10z"></path>
-</svg>
-					</a>
-									
-					<a rel="nofollow noopener" href="index-5.htm?shop_view=grid&#038;per_row=3" class="shop-view current-variation per-row-3">
-						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="19px" viewbox="0 0 19 19" enable-background="new 0 0 19 19" xml:space="preserve">
-<rect width="5" height="5"></rect>
-<rect x="7" width="5" height="5"></rect>
-<rect x="14" width="5" height="5"></rect>
-<rect y="7" width="5" height="5"></rect>
-<rect x="7" y="7" width="5" height="5"></rect>
-<rect x="14" y="7" width="5" height="5"></rect>
-<rect y="14" width="5" height="5"></rect>
-<rect x="7" y="14" width="5" height="5"></rect>
-<rect x="14" y="14" width="5" height="5"></rect>
-</svg>
-					</a>
-									
-					<a rel="nofollow noopener" href="index-6.htm?shop_view=grid&#038;per_row=4" class="shop-view per-row-4">
-						<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="19px" height="19px" viewbox="0 0 19 19" enable-background="new 0 0 19 19" xml:space="preserve">
-<rect width="4" height="4"></rect>
-<rect x="5" width="4" height="4"></rect>
-<rect x="10" width="4" height="4"></rect>
-<rect x="15" width="4" height="4"></rect>
-<rect y="5" width="4" height="4"></rect>
-<rect x="5" y="5" width="4" height="4"></rect>
-<rect x="10" y="5" width="4" height="4"></rect>
-<rect x="15" y="5" width="4" height="4"></rect>
-<rect y="15" width="4" height="4"></rect>
-<rect x="5" y="15" width="4" height="4"></rect>
-<rect x="10" y="15" width="4" height="4"></rect>
-<rect x="15" y="15" width="4" height="4"></rect>
-<rect y="10" width="4" height="4"></rect>
-<rect x="5" y="10" width="4" height="4"></rect>
-<rect x="10" y="10" width="4" height="4"></rect>
-<rect x="15" y="10" width="4" height="4"></rect>
-</svg>
-					</a>
+						
+						
+			<div class="wd-google-map-wrapper wd-fill">
+				<div id="wd-map-id-64288948a4fd4" class="wd-google-map without-content wd-fill"></div>
+			</div>
+			
+							<div class="container wd-google-map-content-wrap wd-items-middle wd-justify-left">
+					<div class="wd-google-map-content reset-last-child">
+													<style>.elementor-7217 .elementor-element.elementor-element-682e0c5 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px;}</style>		<div data-elementor-type="wp-post" data-elementor-id="7217" class="elementor elementor-7217">
+									<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-1c49c46 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="1c49c46" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-682e0c5" data-id="682e0c5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-741f918 elementor-widget elementor-widget-wd_infobox" data-id="741f918" data-element_type="widget" data-widget_type="wd_infobox.default">
+				<div class="elementor-widget-container">
+					<div class="info-box-wrapper">
+			<div class="wd-info-box text-left box-icon-align-top box-style-base color-scheme-">
+				
+				<div class="info-box-content">
+											<div class="info-box-subtitle subtitle-color-default subtitle-style-default wd-fontsize-xs" data-elementor-setting-key="subtitle">
+							Head Office						</div>
+					
+											<h4 class="info-box-title title box-title-style-default wd-fontsize-m" data-elementor-setting-key="title">
+								VISIT OUR NEW<br>
+STORE IN Pakistan						</h4>
+					
+					<div class="info-box-inner set-cont-mb-s reset-last-child" data-elementor-setting-key="content">
+						<p>108, Caesar Tower, Shahrah-e-Faisal, Karachi</p>
+					</div>
+	
 									</div>
-		<form class="woocommerce-ordering" method="get">
-			<select name="orderby" class="orderby" aria-label="Shop order">
-							<option value="menu_order" selected='selected'>Default sorting</option>
-							<option value="popularity">Sort by popularity</option>
-							<option value="rating">Sort by average rating</option>
-							<option value="date">Sort by latest</option>
-							<option value="price">Sort by price: low to high</option>
-							<option value="price-desc">Sort by price: high to low</option>
-					</select>
-		<input type="hidden" name="paged" value="1">
-			</form>
 			</div>
-</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+													</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-4054542 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="4054542" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3120801" data-id="3120801" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4859566 elementor-widget elementor-widget-wd_title" data-id="4859566" data-element_type="widget" data-widget_type="wd_title.default">
+				<div class="elementor-widget-container">
+					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-default text-left">
 
-
-<div class="wd-active-filters">
-	</div>
-
-<div class="wd-sticky-loader"><span class="wd-loader"></span></div>
-
-
+							<div class="title-subtitle subtitle-color-default subtitle-style-default wd-fontsize-xs">
+					INFORMATION QUESTIONS				</div>
 			
-<div class="products elements-grid align-items-start wd-products-holder  wd-spacing-20 pagination-pagination row grid-columns-3" data-source="main_loop" data-min_price="" data-max_price="" data-columns="3">
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title wd-fontsize-l">FREQUENTLY ASKED QUESTIONS</h4> 
+							</div>
 
-							
-					
-					<div class="product-grid-item wd-with-labels product wd-hover-quick  col-md-4 col-6 first  type-product post-11741 status-publish instock product_cat-baby-mother has-post-thumbnail sale featured shipping-taxable purchasable product-type-simple" data-loop="1" data-id="11741">
-
-	
-<div class="product-element-top">
-	<a href="../product/cool-cool-shower-gel-500ml-fruity-fresh/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="600" height="600" src="../wp-content/uploads/2022/10/Delicate-Touch-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w, ../wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, ../wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, ../wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, ../wp-content/uploads/2022/10/Delicate-Touch.png 1000w" sizes="(max-width: 600px) 100vw, 600px">	</a>
-		<div class="wd-buttons wd-pos-r-t">
-									<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-				<a href="../product/cool-cool-shower-gel-500ml-fruity-fresh/index.htm" class="open-quick-view quick-view-button" data-id="11741">Quick view</a>
-			</div>
 					</div>
-
-	<div class="wd-add-btn wd-add-btn-replace">
-		
-		<a href="index-7.htm?add-to-cart=11741" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="11741" data-product_sku="" aria-label="Add &ldquo;Cool &amp; Cool Shower Gel 500ml Fruity Fresh&rdquo; to your cart" rel="nofollow"><span>Add to cart</span></a>	</div>
-				<div class="quick-shop-wrapper wd-fill wd-scroll">
-				<div class="quick-shop-close wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div>
-				<div class="quick-shop-form wd-scroll-content">
 				</div>
-			</div>
-		</div>
-<h3 class="wd-entities-title"><a href="../product/cool-cool-shower-gel-500ml-fruity-fresh/index.htm">Cool &#038; Cool Shower Gel 500ml Fruity Fresh</a></h3>
-
-
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>640.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>512.00</bdi></span></ins></span>
-
-
-
-</div>	
-
-				
-					
-					<div class="product-grid-item wd-with-labels product wd-hover-quick  col-md-4 col-6 type-product post-11738 status-publish instock product_cat-skincare has-post-thumbnail sale featured shipping-taxable purchasable product-type-simple" data-loop="2" data-id="11738">
-
-	
-<div class="product-element-top">
-	<a href="../product/disinfectant-hand-wash-500ml/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="600" height="600" src="../wp-content/uploads/2022/09/Hand-Wash-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/09/Hand-Wash-600x600.png 600w, ../wp-content/uploads/2022/09/Hand-Wash-300x300.png 300w, ../wp-content/uploads/2022/09/Hand-Wash-150x150.png 150w, ../wp-content/uploads/2022/09/Hand-Wash-768x768.png 768w, ../wp-content/uploads/2022/09/Hand-Wash.png 1000w" sizes="(max-width: 600px) 100vw, 600px">	</a>
-		<div class="wd-buttons wd-pos-r-t">
-									<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-				<a href="../product/disinfectant-hand-wash-500ml/index.htm" class="open-quick-view quick-view-button" data-id="11738">Quick view</a>
-			</div>
+				</div>
+				<div class="elementor-element elementor-element-6475143 wd-accordion-theme-style elementor-widget elementor-widget-accordion" data-id="6475143" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
+.elementor-accordion{text-align:left}.elementor-accordion .elementor-accordion-item{border:1px solid #d4d4d4}.elementor-accordion .elementor-accordion-item+.elementor-accordion-item{border-top:none}.elementor-accordion .elementor-tab-title{margin:0;padding:15px 20px;font-weight:700;line-height:1;cursor:pointer;outline:none}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{display:inline-block;width:1.5em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon svg{width:1em;height:1em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right{float:right;text-align:right}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left{float:left;text-align:left}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{display:block}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-opened,.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none}.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block}.elementor-accordion .elementor-tab-content{display:none;padding:15px 20px;border-top:1px solid #d4d4d4}@media (max-width:767px){.elementor-accordion .elementor-tab-title{padding:12px 15px}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{width:1.2em}.elementor-accordion .elementor-tab-content{padding:7px 15px}}.e-container>.elementor-widget-accordion{width:var(--container-widget-width,100%)}</style>		<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1051" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1051" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-chevron-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Will I receive the same product that I see in the picture?</a>
 					</div>
-
-	<div class="wd-add-btn wd-add-btn-replace">
-		
-		<a href="index-8.htm?add-to-cart=11738" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="11738" data-product_sku="" aria-label="Add &ldquo;Disinfectant Hand Wash 500ml&rdquo; to your cart" rel="nofollow"><span>Add to cart</span></a>	</div>
-				<div class="quick-shop-wrapper wd-fill wd-scroll">
-				<div class="quick-shop-close wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div>
-				<div class="quick-shop-form wd-scroll-content">
+					<div id="elementor-tab-content-1051" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1051"><p>Consectetur cras scelerisque dis nec mi vestibulum ullamcorper turpis enim natoque tempus a malesuada suspendisse iaculis adipiscing himenaeos tincidunt.Tellus pharetra dis nostra urna a scelerisque id parturient ullamcorper ullamcorper class ad consectetur tristique et.</p><p>Hendrerit mollis facilisi odio a montes scelerisque a scelerisque justo a praesent conubia aenean mi tempor.</p></div>
 				</div>
-			</div>
-		</div>
-<h3 class="wd-entities-title"><a href="../product/disinfectant-hand-wash-500ml/index.htm">Disinfectant Hand Wash 500ml</a></h3>
-
-
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>550.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>440.00</bdi></span></ins></span>
-
-
-
-</div>	
-
-				
-					
-					<div class="product-grid-item wd-with-labels product wd-hover-quick  col-md-4 col-6 last  type-product post-11730 status-publish last instock product_cat-cleaning has-post-thumbnail sale featured shipping-taxable purchasable product-type-simple" data-loop="3" data-id="11730">
-
-	
-<div class="product-element-top">
-	<a href="../product/disinfectant-wipes-10s-2/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-20%</span></div><img width="600" height="600" src="../wp-content/uploads/2022/09/Isopropyl-Alcohol-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/09/Isopropyl-Alcohol-600x600.png 600w, ../wp-content/uploads/2022/09/Isopropyl-Alcohol-300x300.png 300w, ../wp-content/uploads/2022/09/Isopropyl-Alcohol-150x150.png 150w, ../wp-content/uploads/2022/09/Isopropyl-Alcohol-768x768.png 768w, ../wp-content/uploads/2022/09/Isopropyl-Alcohol.png 1000w" sizes="(max-width: 600px) 100vw, 600px">	</a>
-		<div class="wd-buttons wd-pos-r-t">
-									<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-				<a href="../product/disinfectant-wipes-10s-2/index.htm" class="open-quick-view quick-view-button" data-id="11730">Quick view</a>
-			</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1052" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1052" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-chevron-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Where can I view my sales receipt?</a>
 					</div>
-
-	<div class="wd-add-btn wd-add-btn-replace">
-		
-		<a href="index-9.htm?add-to-cart=11730" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="11730" data-product_sku="" aria-label="Add &ldquo;Disinfectant Wipes 10&#039;s&rdquo; to your cart" rel="nofollow"><span>Add to cart</span></a>	</div>
-				<div class="quick-shop-wrapper wd-fill wd-scroll">
-				<div class="quick-shop-close wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div>
-				<div class="quick-shop-form wd-scroll-content">
+					<div id="elementor-tab-content-1052" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1052"><p>A vel dui a conubia vestibulum class varius vel nunc a gravida ut maecenas quisque a proin condimentum sagittis class at faucibus primis parturient dolor scelerisque himenaeos.</p><p>A et ullamcorper vestibulum netus a mauris ac consectetur libero volutpat congue congue turpis a consectetur adipiscing sit.Suspendisse leo fringilla a congue tempus nisi conubia vestibulum a in posuere accumsan.</p></div>
 				</div>
-			</div>
-		</div>
-<h3 class="wd-entities-title"><a href="../product/disinfectant-wipes-10s-2/index.htm">Disinfectant Wipes 10&#8217;s</a></h3>
-
-
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>299.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>239.20</bdi></span></ins></span>
-
-
-
-</div>	
-
-				
-					
-					<div class="product-grid-item wd-with-labels product wd-hover-quick  col-md-4 col-6 first  type-product post-11732 status-publish first instock product_cat-fragrance has-post-thumbnail featured shipping-taxable purchasable product-type-simple" data-loop="4" data-id="11732">
-
-	
-<div class="product-element-top">
-	<a href="../product/max-fresh-hand-sanitizer-tube-100ml/index.htm" class="product-image-link">
-		<img width="600" height="600" src="../wp-content/uploads/2022/09/Sanitizer-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/09/Sanitizer-600x600.png 600w, ../wp-content/uploads/2022/09/Sanitizer-300x300.png 300w, ../wp-content/uploads/2022/09/Sanitizer-150x150.png 150w, ../wp-content/uploads/2022/09/Sanitizer-768x768.png 768w, ../wp-content/uploads/2022/09/Sanitizer.png 1000w" sizes="(max-width: 600px) 100vw, 600px">	</a>
-		<div class="wd-buttons wd-pos-r-t">
-									<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-				<a href="../product/max-fresh-hand-sanitizer-tube-100ml/index.htm" class="open-quick-view quick-view-button" data-id="11732">Quick view</a>
-			</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1053" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-1053" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-chevron-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">How can I return an item?</a>
 					</div>
-
-	<div class="wd-add-btn wd-add-btn-replace">
-		
-		<a href="index-10.htm?add-to-cart=11732" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="11732" data-product_sku="" aria-label="Add &ldquo;Max Fresh Hand Sanitizer Tube 100ml&rdquo; to your cart" rel="nofollow"><span>Add to cart</span></a>	</div>
-				<div class="quick-shop-wrapper wd-fill wd-scroll">
-				<div class="quick-shop-close wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div>
-				<div class="quick-shop-form wd-scroll-content">
+					<div id="elementor-tab-content-1053" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1053"><p>Sit rhoncus aptent dis scelerisque penatibus a dis tempor accumsan suspendisse mollis a et odio ullamcorper magnis ullamcorper cum ullamcorper duis nulla egestas massa.</p><p>Vitae amet nostra est leo dignissim justo sodales et ac a conubia bibendum duis ad justo suspendisse a a tellus cubilia vestibulum a dictumst a duis risus.Sociosqu curae consequat nisl litora a eros est consectetur nulla rhoncus a a id felis praesent.Tempus dui integer a cursus id fames parturient.</p></div>
 				</div>
-			</div>
-		</div>
-<h3 class="wd-entities-title"><a href="../product/max-fresh-hand-sanitizer-tube-100ml/index.htm">Max Fresh Hand Sanitizer Tube 100ml</a></h3>
-
-
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>310.00</bdi></span></span>
-
-
-
-</div>	
-
-				
-					
-					<div class="product-grid-item wd-with-labels product wd-hover-quick  col-md-4 col-6 type-product post-11744 status-publish instock product_cat-baby-mother has-post-thumbnail sale featured shipping-taxable purchasable product-type-simple" data-loop="5" data-id="11744">
-
-	
-<div class="product-element-top">
-	<a href="../product/nourishing-face-wash-neem-200ml/index.htm" class="product-image-link">
-		<div class="product-labels labels-rounded"><span class="onsale product-label">-25%</span></div><img width="600" height="600" src="../wp-content/uploads/2022/10/Magical-Comfort-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/10/Magical-Comfort-600x600.png 600w, ../wp-content/uploads/2022/10/Magical-Comfort-300x300.png 300w, ../wp-content/uploads/2022/10/Magical-Comfort-150x150.png 150w, ../wp-content/uploads/2022/10/Magical-Comfort-768x768.png 768w, ../wp-content/uploads/2022/10/Magical-Comfort.png 1000w" sizes="(max-width: 600px) 100vw, 600px">	</a>
-		<div class="wd-buttons wd-pos-r-t">
-									<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-				<a href="../product/nourishing-face-wash-neem-200ml/index.htm" class="open-quick-view quick-view-button" data-id="11744">Quick view</a>
-			</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1054" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-1054" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-chevron-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Will you restock items indicated as “out of stock?”</a>
 					</div>
-
-	<div class="wd-add-btn wd-add-btn-replace">
-		
-		<a href="index-11.htm?add-to-cart=11744" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="11744" data-product_sku="" aria-label="Add &ldquo;Nourishing Face Wash Neem 200ml&rdquo; to your cart" rel="nofollow"><span>Add to cart</span></a>	</div>
-				<div class="quick-shop-wrapper wd-fill wd-scroll">
-				<div class="quick-shop-close wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div>
-				<div class="quick-shop-form wd-scroll-content">
+					<div id="elementor-tab-content-1054" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1054"><p>Scelerisque parturient sagittis nisi in aliquam dui scelerisque non consectetur aptent hac adipiscing ullamcorper pulvinar sit vestibulum purus facilisi hendrerit mus nisl massa ut parturient consectetur cum justo fames torquent.</p><p>Ac curae aliquet vivamus aptent duis congue urna venenatis ridiculus faucibus tincidunt a lorem rutrum nullam potenti adipiscing.Adipiscing.</p></div>
 				</div>
-			</div>
-		</div>
-<h3 class="wd-entities-title"><a href="../product/nourishing-face-wash-neem-200ml/index.htm">Nourishing Face Wash Neem 200ml</a></h3>
-
-
-	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>459.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>344.25</bdi></span></ins></span>
-
-
-
-</div>	
-
-				
-					
-					<div class="product-grid-item wd-with-labels product wd-hover-quick  col-md-4 col-6 last  type-product post-11735 status-publish instock product_cat-hygiene has-post-thumbnail featured shipping-taxable purchasable product-type-simple" data-loop="6" data-id="11735">
-
-	
-<div class="product-element-top">
-	<a href="../product/travelling-hand-sanitizer-tube-100ml/index.htm" class="product-image-link">
-		<img width="600" height="600" src="../wp-content/uploads/2022/10/Travelling-600x600.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="../wp-content/uploads/2022/10/Travelling-600x600.png 600w, ../wp-content/uploads/2022/10/Travelling-300x300.png 300w, ../wp-content/uploads/2022/10/Travelling-150x150.png 150w, ../wp-content/uploads/2022/10/Travelling-768x768.png 768w, ../wp-content/uploads/2022/10/Travelling.png 1000w" sizes="(max-width: 600px) 100vw, 600px">	</a>
-		<div class="wd-buttons wd-pos-r-t">
-									<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
-				<a href="../product/travelling-hand-sanitizer-tube-100ml/index.htm" class="open-quick-view quick-view-button" data-id="11735">Quick view</a>
-			</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-1055" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-1055" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-right" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-chevron-down"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-chevron-up"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Where can I ship my order?</a>
 					</div>
-
-	<div class="wd-add-btn wd-add-btn-replace">
-		
-		<a href="index-12.htm?add-to-cart=11735" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart add-to-cart-loop" data-product_id="11735" data-product_sku="" aria-label="Add &ldquo;Travelling Hand Sanitizer Tube 100ml&rdquo; to your cart" rel="nofollow"><span>Add to cart</span></a>	</div>
-				<div class="quick-shop-wrapper wd-fill wd-scroll">
-				<div class="quick-shop-close wd-action-btn wd-style-text wd-cross-icon"><a href="#" rel="nofollow noopener">Close</a></div>
-				<div class="quick-shop-form wd-scroll-content">
+					<div id="elementor-tab-content-1055" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1055"><p>Ut bibendum a adipiscing purus massa a facilisi congue parturient condimentum urna donec per adipiscing cursus nisl nam tristique parturient id.</p><p>Aliquam quam at et in ipsum at venenatis a eget dignissim aliquam tincidunt ultrices lacus ad consectetur imperdiet sem suspendisse ante a dapibus potenti.Eu parturient parturient magnis tempus molestie augue quam vulputate hac facilisis est nisl pretium a cursus.</p></div>
 				</div>
-			</div>
+								</div>
+				</div>
+				</div>
+					</div>
 		</div>
-<h3 class="wd-entities-title"><a href="../product/travelling-hand-sanitizer-tube-100ml/index.htm">Travelling Hand Sanitizer Tube 100ml</a></h3>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2007052" data-id="2007052" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9025112 elementor-widget elementor-widget-wd_title" data-id="9025112" data-element_type="widget" data-widget_type="wd_title.default">
+				<div class="elementor-widget-container">
+					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-default wd-title-style-default wd-title-size-default text-left">
 
-
-	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>310.00</bdi></span></span>
-
-
-
-</div>	
-
-							
-
-			</div>
+							<div class="title-subtitle subtitle-color-default subtitle-style-default wd-fontsize-xs">
+					INFORMATION ABOUT US				</div>
 			
-		
+			<div class="liner-continer">
+				<h4 class="woodmart-title-container title wd-fontsize-l">CONTACT US FOR ANY QUESTIONS</h4> 
+							</div>
 
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9327498 elementor-widget elementor-widget-wd_contact_form_7" data-id="9327498" data-element_type="widget" data-widget_type="wd_contact_form_7.default">
+				<div class="elementor-widget-container">
+			<div role="form" class="wpcf7" id="wpcf7-f608-p646-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/contact-us/#wpcf7-f608-p646-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="608">
+<input type="hidden" name="_wpcf7_version" value="5.6.4">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f608-p646-o1">
+<input type="hidden" name="_wpcf7_container_post" value="646">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
 </div>
+<div class="row">
+<div class="col-md-6" style='margin-bottom:20px;'><span class="wpcf7-form-control-wrap" data-name="YourName"><input type="text" name="YourName" value="" size="40" class="wpcf7-form-control wpcf7-text cntct-feild" aria-invalid="false" placeholder="Your Name"></span></div>
+<div class="col-md-6" style='margin-bottom:20px;'><span class="wpcf7-form-control-wrap" data-name="YourEmail"><input type="email" name="YourEmail" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email cntct-feild" aria-required="true" aria-invalid="false" placeholder="Your Email"></span></div>
+</div>
+<p><span class="wpcf7-form-control-wrap" data-name="Subject"><input type="text" name="Subject" value="" size="40" class="wpcf7-form-control wpcf7-text cntct-feild" aria-invalid="false" placeholder="Subject"></span></p>
+<p><span class="wpcf7-form-control-wrap" data-name="YourMessage"><textarea name="YourMessage" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea cntct-feild" aria-invalid="false" placeholder="Your Message"></textarea></span></p>
+<p><input type="submit" value="Send A Message" class="wpcf7-form-control has-spinner wpcf7-submit btn-color-black"></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-1c18f08 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="1c18f08" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6993211" data-id="6993211" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2414488 elementor-widget elementor-widget-heading" data-id="2414488" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Get in touch with us</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bec1035 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="bec1035" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-dc4675d elementor-widget elementor-widget-wd_contact_form_7" data-id="dc4675d" data-element_type="widget" data-widget_type="wd_contact_form_7.default">
+				<div class="elementor-widget-container">
+			<div role="form" class="wpcf7" id="wpcf7-f608-p646-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/contact-us/#wpcf7-f608-p646-o2" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="608">
+<input type="hidden" name="_wpcf7_version" value="5.6.4">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f608-p646-o2">
+<input type="hidden" name="_wpcf7_container_post" value="646">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<div class="row">
+<div class="col-md-6" style='margin-bottom:20px;'><span class="wpcf7-form-control-wrap" data-name="YourName"><input type="text" name="YourName" value="" size="40" class="wpcf7-form-control wpcf7-text cntct-feild" aria-invalid="false" placeholder="Your Name"></span></div>
+<div class="col-md-6" style='margin-bottom:20px;'><span class="wpcf7-form-control-wrap" data-name="YourEmail"><input type="email" name="YourEmail" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email cntct-feild" aria-required="true" aria-invalid="false" placeholder="Your Email"></span></div>
+</div>
+<p><span class="wpcf7-form-control-wrap" data-name="Subject"><input type="text" name="Subject" value="" size="40" class="wpcf7-form-control wpcf7-text cntct-feild" aria-invalid="false" placeholder="Subject"></span></p>
+<p><span class="wpcf7-form-control-wrap" data-name="YourMessage"><textarea name="YourMessage" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea cntct-feild" aria-invalid="false" placeholder="Your Message"></textarea></span></p>
+<p><input type="submit" value="Send A Message" class="wpcf7-form-control has-spinner wpcf7-submit btn-color-black"></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bb0f9c7" data-id="bb0f9c7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b9db249 elementor-widget elementor-widget-heading" data-id="b9db249" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Contact information</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fae639b elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="fae639b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5e2fc67 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5e2fc67" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="../wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
+										<span class="elementor-icon-list-text"><b>Contact Number:</b><a href="tel:92-21-32791695" class="cntct-num"> +92-21-32791695</a></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9438770 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="9438770" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text"><b>Email:</b><a href="mailto:sales@coolandcool.pk" class="cntct-email">sales@coolandcool.pk</a></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-271e966 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="271e966" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-location-arrow"></i>						</span>
+										<span class="elementor-icon-list-text"><b>Address</b>: <a href="https://www.google.com/maps?ll=24.857683,67.045615&z=18&t=m&hl=en&gl=US&mapclient=embed&cid=6042088169578872861" class="cntct-add">108, Caesar Tower, Shahrah-e-Faisal, Karachi</a></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-a42dd22 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="a42dd22" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0331904" data-id="0331904" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-e618f7e color-scheme-inherit text-left elementor-widget elementor-widget-text-editor" data-id="e618f7e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><span style="color: #333333;"><strong>Do you have questions about how we can help your company?<br><a><span class="color-primary">Send us an email and we’ll get in touch shortly.</span></a></strong></span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+													</div>
+
+					
+				</article><!-- #post -->
+
+				
+		
+</div><!-- .site-content -->
+
+
+
 			</div><!-- .main-page-wrapper --> 
 			</div> <!-- end row -->
 	</div> <!-- end container -->
@@ -668,7 +549,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
      <li><a href="#">About Us</a></li>
      <li><a href="#">Product</a></li>
      <li><a href="#">Media</a></li>
-     <li><a href="../contact-us/index.htm">Contact</a></li>
+     <li><a href="index.htm">Contact</a></li>
 </ul>
 		    	</div>
 		</div>						</div>
@@ -714,7 +595,7 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 <div class="wd-close-side"></div>
 			<a href="#" class="scrollToTop"></a>
 		<div class="mobile-nav wd-side-hidden wd-left">			<div class="wd-search-form">
-								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="https://coolandcool.inventivemind.com.pk/" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
 					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products">
 					<input type="hidden" name="post_type" value="product">
 										<button type="submit" class="searchsubmit">
@@ -731,9 +612,9 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 							</div>
 		<ul id="menu-main-mobile-menu" class="mobile-pages-menu wd-nav wd-nav-mobile wd-active"><li id="menu-item-12540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-12540 item-level-0"><a href="../index.htm" class="woodmart-nav-link"><span class="nav-link-text">Home</span></a></li>
 <li id="menu-item-12390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12390 item-level-0"><a href="../about-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">About Us</span></a></li>
-<li id="menu-item-11612" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-11612 item-level-0"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">Product</span></a></li>
+<li id="menu-item-11612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11612 item-level-0"><a href="../shop/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Product</span></a></li>
 <li id="menu-item-12389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12389 item-level-0"><a href="../media/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Media</span></a></li>
-<li id="menu-item-12391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12391 item-level-0"><a href="../contact-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Contact Us</span></a></li>
+<li id="menu-item-12391" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-646 current_page_item menu-item-12391 item-level-0"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">Contact Us</span></a></li>
 </ul>
 		</div><!--END MOBILE-NAV-->			<div class="cart-widget-side wd-side-hidden wd-right">
 				<div class="widget-heading">
@@ -744,8 +625,6 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 				</div>
 				<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>			</div>
 		
-		
-		
 		<script>
 			window.RS_MODULES = window.RS_MODULES || {};
 			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
@@ -754,16 +633,8 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
 			window.RS_MODULES.type = 'compiled';
 		</script>
-		<script type="text/template" id="tmpl-variation-template">
-	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
-	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
-	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
-</script>
-<script type="text/template" id="tmpl-unavailable-variation-template">
-	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
-</script>
-<script type='text/javascript' src='../wp-content/plugins/yottie-lite/assets/yottie-lite/dist/jquery.yottie-lite.bundled.js?ver=1.3.3' id='yottie-lite-js'></script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/coolandcool.inventivemind.com.pk"}},{"@type":"ListItem","position":2,"item":{"name":"Shop","@id":"https:\/\/coolandcool.inventivemind.com.pk\/shop\/"}}]}</script>	<script type="text/javascript">
+		<script type='text/javascript' src='../wp-content/plugins/yottie-lite/assets/yottie-lite/dist/jquery.yottie-lite.bundled.js?ver=1.3.3' id='yottie-lite-js'></script>
+	<script type="text/javascript">
 		(function () {
 			var c = document.body.className;
 			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
@@ -773,6 +644,7 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 	<style id='core-block-supports-inline-css' type='text/css'>
 .wp-container-1.wp-container-1,.wp-container-2.wp-container-2,.wp-container-3.wp-container-3,.wp-container-4.wp-container-4{justify-content:flex-start;}
 </style>
+<link rel='stylesheet' id='e-animations-css' href='../wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.6' type='text/css' media='all'>
 <link rel='stylesheet' id='rs-plugin-settings-css' href='../wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.31' type='text/css' media='all'>
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 #rs-demo-id {}
@@ -811,75 +683,30 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Products &#8211; Cool &amp; Cool","excerpt":"<p>This is where you can browse products in this store.<\/p>\n"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":646,"title":"Contact%20Us%20%E2%80%93%20Cool%20%26%20Cool","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":646,"title":"Contact%20Us%20%E2%80%93%20Cool%20%26%20Cool","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.6' id='elementor-frontend-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/pjax.min.js?ver=6.1.5' id='wd-pjax-library-js'></script>
 <script type='text/javascript' id='woodmart-theme-js-extra'>
 /* <![CDATA[ */
 var woodmart_settings = {"menu_storage_key":"woodmart_4355cd7dcb43fef12140efcd31511360","ajax_dropdowns_save":"1","photoswipe_close_on_scroll":"1","woocommerce_ajax_add_to_cart":"yes","variation_gallery_storage_method":"new","elementor_no_gap":"enabled","adding_to_cart":"Processing","added_to_cart":"Product was successfully added to your cart.","continue_shopping":"Continue shopping","view_cart":"View Cart","go_to_checkout":"Checkout","loading":"Loading...","countdown_days":"days","countdown_hours":"hr","countdown_mins":"min","countdown_sec":"sc","cart_url":"https:\/\/coolandcool.inventivemind.com.pk\/cart\/","ajaxurl":"https:\/\/coolandcool.inventivemind.com.pk\/wp-admin\/admin-ajax.php","add_to_cart_action":"widget","added_popup":"no","categories_toggle":"yes","enable_popup":"no","popup_delay":"2000","popup_event":"time","popup_scroll":"1000","popup_pages":"0","promo_popup_hide_mobile":"no","product_images_captions":"no","ajax_add_to_cart":"1","all_results":"View all results","product_gallery":{"images_slider":true,"thumbs_slider":{"enabled":true,"position":"bottom","items":{"desktop":4,"tablet_landscape":3,"tablet":4,"mobile":3,"vertical_items":3}}},"zoom_enable":"yes","ajax_scroll":"yes","ajax_scroll_class":".main-page-wrapper","ajax_scroll_offset":"100","infinit_scroll_offset":"300","product_slider_auto_height":"no","price_filter_action":"click","product_slider_autoplay":"","close":"Close (Esc)","share_fb":"Share on Facebook","pin_it":"Pin it","tweet":"Tweet","download_image":"Download image","cookies_version":"1","header_banner_version":"1","promo_version":"1","header_banner_close_btn":"yes","header_banner_enabled":"no","whb_header_clone":"\n    <div class=\"whb-sticky-header whb-clone whb-main-header <%wrapperClasses%>\">\n        <div class=\"<%cloneClass%>\">\n            <div class=\"container\">\n                <div class=\"whb-flex-row whb-general-header-inner\">\n                    <div class=\"whb-column whb-col-left whb-visible-lg\">\n                        <%.site-logo%>\n                    <\/div>\n                    <div class=\"whb-column whb-col-center whb-visible-lg\">\n                        <%.wd-header-main-nav%>\n                    <\/div>\n                    <div class=\"whb-column whb-col-right whb-visible-lg\">\n                        <%.wd-header-my-account%>\n                        <%.wd-header-search:not(.wd-header-search-mobile)%>\n\t\t\t\t\t\t<%.wd-header-wishlist%>\n                        <%.wd-header-compare%>\n                        <%.wd-header-cart%>\n                        <%.wd-header-fs-nav%>\n                    <\/div>\n                    <%.whb-mobile-left%>\n                    <%.whb-mobile-center%>\n                    <%.whb-mobile-right%>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n","pjax_timeout":"5000","split_nav_fix":"","shop_filters_close":"no","woo_installed":"1","base_hover_mobile_click":"no","centered_gallery_start":"1","quickview_in_popup_fix":"","one_page_menu_offset":"150","hover_width_small":"1","is_multisite":"","current_blog_id":"1","swatches_scroll_top_desktop":"no","swatches_scroll_top_mobile":"no","lazy_loading_offset":"0","add_to_cart_action_timeout":"no","add_to_cart_action_timeout_number":"3","single_product_variations_price":"no","google_map_style_text":"Custom style","quick_shop":"yes","sticky_product_details_offset":"150","preloader_delay":"300","comment_images_upload_size_text":"Some files are too large. Allowed file size is 1 MB.","comment_images_count_text":"You can upload up to 3 images to your review.","comment_images_upload_mimes_text":"You are allowed to upload images only in png, jpeg formats.","comment_images_added_count_text":"Added %s image(s)","comment_images_upload_size":"1048576","comment_images_count":"3","search_input_padding":"no","comment_images_upload_mimes":{"jpg|jpeg|jpe":"image\/jpeg","png":"image\/png"},"home_url":"https:\/\/coolandcool.inventivemind.com.pk\/","shop_url":"https:\/\/coolandcool.inventivemind.com.pk\/shop\/","age_verify":"no","age_verify_expires":"30","cart_redirect_after_add":"no","swatches_labels_name":"no","product_categories_placeholder":"Select a category","product_categories_no_results":"No matches found","cart_hash_key":"wc_cart_hash_0fdb285cc9707123860de8b3dc70cb94","fragment_name":"wc_fragments_0fdb285cc9707123860de8b3dc70cb94","photoswipe_template":"<div class=\"pswp\" aria-hidden=\"true\" role=\"dialog\" tabindex=\"-1\"><div class=\"pswp__bg\"><\/div><div class=\"pswp__scroll-wrap\"><div class=\"pswp__container\"><div class=\"pswp__item\"><\/div><div class=\"pswp__item\"><\/div><div class=\"pswp__item\"><\/div><\/div><div class=\"pswp__ui pswp__ui--hidden\"><div class=\"pswp__top-bar\"><div class=\"pswp__counter\"><\/div><button class=\"pswp__button pswp__button--close\" title=\"Close (Esc)\"><\/button> <button class=\"pswp__button pswp__button--share\" title=\"Share\"><\/button> <button class=\"pswp__button pswp__button--fs\" title=\"Toggle fullscreen\"><\/button> <button class=\"pswp__button pswp__button--zoom\" title=\"Zoom in\/out\"><\/button><div class=\"pswp__preloader\"><div class=\"pswp__preloader__icn\"><div class=\"pswp__preloader__cut\"><div class=\"pswp__preloader__donut\"><\/div><\/div><\/div><\/div><\/div><div class=\"pswp__share-modal pswp__share-modal--hidden pswp__single-tap\"><div class=\"pswp__share-tooltip\"><\/div><\/div><button class=\"pswp__button pswp__button--arrow--left\" title=\"Previous (arrow left)\"><\/button> <button class=\"pswp__button pswp__button--arrow--right\" title=\"Next (arrow right)>\"><\/button><div class=\"pswp__caption\"><div class=\"pswp__caption__center\"><\/div><\/div><\/div><\/div><\/div>","load_more_button_page_url":"yes","menu_item_hover_to_click_on_responsive":"no","clear_menu_offsets_on_resize":"yes","three_sixty_framerate":"60","site_width":"1222","combined_css":"no","slider_distortion_effect":"sliderWithNoise"};
-var woodmart_page_css = {"wd-widget-wd-recent-posts-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-wd-recent-posts.min.css","wd-widget-nav-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-nav.min.css","wd-widget-wd-layered-nav-product-cat-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-wd-layered-nav-product-cat.min.css","wd-widget-product-list-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-product-list.min.css","wd-widget-slider-price-filter-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-slider-price-filter.min.css","wd-footer-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/footer-base.min.css","wd-wp-gutenberg-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/wp-gutenberg.min.css","wd-wpcf7-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-wpcf7.min.css","wd-mc4wp-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-mc4wp.min.css","wd-revolution-slider-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-revolution-slider.min.css","wd-elementor-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-elementor-base.min.css","wd-woocommerce-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woocommerce-base.min.css","wd-page-shop-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-page-shop.min.css","wd-widget-active-filters-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-active-filters.min.css","wd-header-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-base.min.css","wd-mod-tools-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/mod-tools.min.css","wd-header-search-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-search.min.css","wd-header-cart-side-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart-side.min.css","wd-header-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart.min.css","wd-widget-shopping-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-shopping-cart.min.css","wd-page-title-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/page-title.min.css","wd-shop-title-categories-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-opt-shop-title-categories.min.css","wd-off-canvas-sidebar-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/opt-off-canvas-sidebar.min.css","wd-shop-filter-area-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-opt-shop-filter-area.min.css","wd-sticky-loader-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/mod-sticky-loader.min.css","wd-product-loop-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-product-loop.min.css","wd-product-loop-quick-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-product-loop-quick.min.css","wd-categories-loop-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-categories-loop.min.css","wd-categories-loop-center-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-categories-loop-center.min.css","wd-mfp-popup-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/lib-magnific-popup.min.css","wd-add-to-cart-popup-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-opt-add-to-cart-popup.min.css","wd-scroll-top-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/opt-scrolltotop.min.css"};
+var woodmart_page_css = {"wd-widget-wd-recent-posts-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-wd-recent-posts.min.css","wd-widget-nav-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-nav.min.css","wd-widget-wd-layered-nav-product-cat-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-wd-layered-nav-product-cat.min.css","wd-widget-product-list-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-product-list.min.css","wd-widget-slider-price-filter-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-slider-price-filter.min.css","wd-footer-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/footer-base.min.css","wd-wp-gutenberg-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/wp-gutenberg.min.css","wd-wpcf7-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-wpcf7.min.css","wd-mc4wp-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-mc4wp.min.css","wd-revolution-slider-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-revolution-slider.min.css","wd-elementor-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-elementor-base.min.css","wd-woocommerce-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woocommerce-base.min.css","wd-header-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-base.min.css","wd-mod-tools-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/mod-tools.min.css","wd-header-search-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-search.min.css","wd-header-cart-side-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart-side.min.css","wd-header-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart.min.css","wd-widget-shopping-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-shopping-cart.min.css","wd-map-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/el-map.min.css","wd-info-box-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/el-info-box.min.css","wd-section-title-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/el-section-title.min.css","wd-scroll-top-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/opt-scrolltotop.min.css"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/helpers.min.js?ver=6.1.5' id='woodmart-theme-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/woocommerceNotices.min.js?ver=6.1.5' id='wd-woocommerce-notices-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/woocommerceWrappTable.min.js?ver=6.1.5' id='wd-woocommerce-wrapp-table-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/ajaxFilters.min.js?ver=6.1.5' id='wd-ajax-filters-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/sortByWidget.min.js?ver=6.1.5' id='wd-sort-by-widget-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/shopPageInit.min.js?ver=6.1.5' id='wd-shop-page-init-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/clickOnScrollButton.min.js?ver=6.1.5' id='wd-click-on-scroll-btn-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/backHistory.min.js?ver=6.1.5' id='wd-back-history-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/header/headerBuilder.min.js?ver=6.1.5' id='wd-header-builder-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/autocomplete.min.js?ver=6.1.5' id='wd-autocomplete-library-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/ajaxSearch.min.js?ver=6.1.5' id='wd-ajax-search-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/menu/menuOffsets.min.js?ver=6.1.5' id='wd-menu-offsets-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/menu/menuSetUp.min.js?ver=6.1.5' id='wd-menu-setup-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/onRemoveFromCart.min.js?ver=6.1.5' id='wd-on-remove-from-cart-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/categoriesMenu.min.js?ver=6.1.5' id='wd-categories-menu-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/categoriesAccordion.min.js?ver=6.1.5' id='wd-categories-accordion-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/categoriesDropdowns.min.js?ver=6.1.5' id='wd-categories-dropdown-js'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
-<script type='text/javascript' src='../wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2' id='jquery-ui-slider-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=7.1.0' id='wc-jquery-ui-touchpunch-js'></script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2' id='accounting-js'></script>
-<script type='text/javascript' id='wc-price-slider-js-extra'>
-/* <![CDATA[ */
-var woocommerce_price_slider_params = {"currency_format_num_decimals":"0","currency_format_symbol":"$","currency_format_decimal_sep":".","currency_format_thousand_sep":",","currency_format":"%s%v"};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=7.1.0' id='wc-price-slider-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/woocommercePriceSlider.min.js?ver=6.1.5' id='wd-woocommerce-price-slider-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/hiddenSidebar.min.js?ver=6.1.5' id='wd-hidden-sidebar-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/filtersArea.min.js?ver=6.1.5' id='wd-filters-area-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/shopLoader.min.js?ver=6.1.5' id='wd-shop-loader-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/quickShop.min.js?ver=6.1.5' id='wd-quick-shop-js'></script>
-<script type='text/javascript' src='../wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
-<script type='text/javascript' id='wp-util-js-extra'>
-/* <![CDATA[ */
-var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-includes/js/wp-util.min.js?ver=6.2' id='wp-util-js'></script>
-<script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
-/* <![CDATA[ */
-var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
-/* ]]> */
-</script>
-<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0' id='wc-add-to-cart-variation-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/owl.carousel.min.js?ver=6.1.5' id='wd-owl-library-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/magnific-popup.min.js?ver=6.1.5' id='wd-magnific-library-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/productImagesGallery.min.js?ver=6.1.5' id='wd-product-images-gallery-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/quickView.min.js?ver=6.1.5' id='wd-quick-view-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/tooltips.min.js?ver=6.1.5' id='wd-tooltips-library-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/btnsToolTips.min.js?ver=6.1.5' id='wd-btns-tooltips-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/swatchesVariations.min.js?ver=6.1.5' id='wd-swatches-variations-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/addToCartAllTypes.min.js?ver=6.1.5' id='wd-add-to-cart-all-types-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/woocommerceQuantity.min.js?ver=6.1.5' id='wd-woocommerce-quantity-js'></script>
-<script type='text/javascript' src='../wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/actionAfterAddToCart.min.js?ver=6.1.5' id='wd-action-after-add-to-cart-js'></script>
+<script type='text/javascript' src='../maps/api/js?libraries=geometry&#038;v=3.44&#038;key=AIzaSyAc7wnkTL45-LF9qrbaT-XLJn3AszvixZE&#038;ver=6.1.5' id='wd-google-map-api-js'></script>
+<script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/maplace.min.js?ver=6.1.5' id='wd-maplace-js'></script>
+<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/elements/googleMap.min.js?ver=6.1.5' id='wd-google-map-element-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/scrollTop.min.js?ver=6.1.5' id='wd-scroll-top-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/menu/mobileNavigation.min.js?ver=6.1.5' id='wd-mobile-navigation-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/cartWidget.min.js?ver=6.1.5' id='wd-cart-widget-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/stickySidebarBtn.min.js?ver=6.1.5' id='wd-sticky-sidebar-btn-js'></script>
 </body>
 </html>

@@ -7,22 +7,22 @@ if (isset($_GET['id']) && isset($_GET['action']) && $_GET['action'] == "woodmart
   
     <div class="row product-image-summary">
       <div class="col-lg-6 col-md-6 col-12 product-images woocommerce-product-gallery">
-              <link rel="stylesheet" id="wd-page-single-product-css" href="https://coolandcool.inventivemind.com.pk/wp-content/themes/woodmart/css/parts/woo-page-single-product.min.css?ver=6.1.5" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-owl-carousel-css" href="https://coolandcool.inventivemind.com.pk/wp-content/themes/woodmart/css/parts/lib-owl-carousel.min.css?ver=6.1.5" type="text/css" media="all" /> 			<div class="images">
+              <link rel="stylesheet" id="wd-page-single-product-css" href="wp-content/themes/woodmart/css/parts/woo-page-single-product.min.css?ver=6.1.5" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-owl-carousel-css" href="wp-content/themes/woodmart/css/parts/lib-owl-carousel.min.css?ver=6.1.5" type="text/css" media="all" /> 			<div class="images">
     <div class="woocommerce-product-gallery__wrapper quick-view-gallery owl-items-lg-1 owl-items-md-1 owl-items-sm-1 owl-items-xs-1">
-      <figure class="woocommerce-product-gallery__image"><img width="1000" height="1000" src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch.png" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="" decoding="async" loading="lazy" title="Delicate-Touch" srcset="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch.png 1000w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>	</div>
+      <figure class="woocommerce-product-gallery__image"><img width="1000" height="1000" src="wp-content/uploads/2022/10/Delicate-Touch.png" class="attachment-woocommerce_single size-woocommerce_single wp-post-image" alt="" decoding="async" loading="lazy" title="Delicate-Touch" srcset="wp-content/uploads/2022/10/Delicate-Touch.png 1000w, wp-content/uploads/2022/10/Delicate-Touch-300x300.png 300w, wp-content/uploads/2022/10/Delicate-Touch-150x150.png 150w, wp-content/uploads/2022/10/Delicate-Touch-768x768.png 768w, wp-content/uploads/2022/10/Delicate-Touch-600x600.png 600w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>	</div>
   </div>
-  <a href="https://coolandcool.inventivemind.com.pk/product/cool-cool-shower-gel-500ml-fruity-fresh/" class="view-details-btn">View details</a>		</div>
+  <a href="product/cool-cool-shower-gel-500ml-fruity-fresh/" class="view-details-btn">View details</a>		</div>
       <div class="col-lg-6 col-md-6 col-12 summary entry-summary">
         <div class="summary-inner wd-scroll">
           <div class="wd-scroll-content">
             
-  <h1 itemprop="name" class="product_title wd-entities-title"><a href="https://coolandcool.inventivemind.com.pk/product/cool-cool-shower-gel-500ml-fruity-fresh/">Cool &#038; Cool Shower Gel 500ml Fruity Fresh</a></h1><p class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>640.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>512.00</bdi></span></ins></p>
+  <h1 itemprop="name" class="product_title wd-entities-title"><a href="product/cool-cool-shower-gel-500ml-fruity-fresh/">Cool &#038; Cool Shower Gel 500ml Fruity Fresh</a></h1><p class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>640.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>512.00</bdi></span></ins></p>
   <div class="woocommerce-product-details__short-description">
     <p>Cool and Cool Products are antibacterial alcohol free.It’s soft and gentle and with mild fragrance</p>
   </div>
   
-          <link rel="stylesheet" id="wd-add-to-cart-popup-css" href="https://coolandcool.inventivemind.com.pk/wp-content/themes/woodmart/css/parts/woo-opt-add-to-cart-popup.min.css?ver=6.1.5" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mfp-popup-css" href="https://coolandcool.inventivemind.com.pk/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=6.1.5" type="text/css" media="all" /> 			
-    <form class="cart" action="https://coolandcool.inventivemind.com.pk/product/cool-cool-shower-gel-500ml-fruity-fresh/" method="post" enctype=\'multipart/form-data\'>
+          <link rel="stylesheet" id="wd-add-to-cart-popup-css" href="wp-content/themes/woodmart/css/parts/woo-opt-add-to-cart-popup.min.css?ver=6.1.5" type="text/css" media="all" /> 						<link rel="stylesheet" id="wd-mfp-popup-css" href="wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=6.1.5" type="text/css" media="all" /> 			
+    <form class="cart" action="product/cool-cool-shower-gel-500ml-fruity-fresh/" method="post" enctype=\'multipart/form-data\'>
       
         <div class="quantity">
           <input type="button" value="-" class="minus" />
@@ -52,7 +52,7 @@ if (isset($_GET['id']) && isset($_GET['action']) && $_GET['action'] == "woodmart
   
     
     
-    <span class="posted_in">Category: <a href="https://coolandcool.inventivemind.com.pk/product-category/baby-mother/" rel="tag">Baby &amp; Mother</a></span>
+    <span class="posted_in">Category: <a href="product-category/baby-mother/" rel="tag">Baby &amp; Mother</a></span>
     
     
   </div>

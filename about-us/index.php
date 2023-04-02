@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
-	<link rel="pingback" href="https://coolandcool.inventivemind.com.pk/xmlrpc.php">
+	<link rel="pingback" href="xmlrpc.php">
 
-			<script>window.MSInputMethodContext && document.documentMode && document.write('<script src="https://coolandcool.inventivemind.com.pk/wp-content/themes/woodmart/js/libs/ie11CustomProperties.min.js"><\/script>');</script>
-		<title>Media &#8211; Cool &amp; Cool</title>
+			<script>window.MSInputMethodContext && document.documentMode && document.write('<script src="wp-content/themes/woodmart/js/libs/ie11CustomProperties.min.js"><\/script>');</script>
+		<title>About Us &#8211; Cool &amp; Cool</title>
 <meta name='robots' content='max-image-preview:large'>
 <link rel='dns-prefetch' href='//fonts.googleapis.com'>
 <link rel="alternate" type="application/rss+xml" title="Cool &amp; Cool &raquo; Feed" href="../feed/index.htm">
@@ -27,7 +27,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-icons-css' href='../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' type='text/css' media='all'>
 <link rel='stylesheet' id='elementor-frontend-css' href='../wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.6' type='text/css' media='all'>
 <link rel='stylesheet' id='elementor-post-8-css' href='../wp-content/uploads/elementor/css/post-8.css?ver=1663310708' type='text/css' media='all'>
-<link rel='stylesheet' id='elementor-post-12305-css' href='../wp-content/uploads/elementor/css/post-12305.css?ver=1669145420' type='text/css' media='all'>
+<link rel='stylesheet' id='elementor-post-12147-css' href='../wp-content/uploads/elementor/css/post-12147.css?ver=1669232864' type='text/css' media='all'>
 <link rel='stylesheet' id='bootstrap-css' href='../wp-content/themes/woodmart/css/bootstrap.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='woodmart-style-css' href='../wp-content/themes/woodmart/css/parts/base.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-widget-wd-recent-posts-css' href='../wp-content/themes/woodmart/css/parts/widget-wd-recent-posts.min.css?ver=6.1.5' type='text/css' media='all'>
@@ -50,11 +50,6 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='wd-header-cart-css' href='../wp-content/themes/woodmart/css/parts/header-el-cart.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-widget-shopping-cart-css' href='../wp-content/themes/woodmart/css/parts/woo-widget-shopping-cart.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-page-title-css' href='../wp-content/themes/woodmart/css/parts/page-title.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-section-title-css' href='../wp-content/themes/woodmart/css/parts/el-section-title.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-blog-base-css' href='../wp-content/themes/woodmart/css/parts/blog-base.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-blog-loop-base-old-css' href='../wp-content/themes/woodmart/css/parts/blog-loop-base-old.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-blog-loop-design-masonry-css' href='../wp-content/themes/woodmart/css/parts/blog-loop-design-masonry.min.css?ver=6.1.5' type='text/css' media='all'>
-<link rel='stylesheet' id='wd-lazy-loading-css' href='../wp-content/themes/woodmart/css/parts/opt-lazy-load.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='wd-scroll-top-css' href='../wp-content/themes/woodmart/css/parts/opt-scrolltotop.min.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='xts-style-header_755968-css' href='../wp-content/uploads/2022/10/xts-header_755968-1664647934.css?ver=6.1.5' type='text/css' media='all'>
 <link rel='stylesheet' id='xts-style-theme_settings_default-css' href='../wp-content/uploads/2022/11/xts-theme_settings_default-1669234821.css?ver=6.1.5' type='text/css' media='all'>
@@ -62,14 +57,14 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery.min.js?ver=3.6.3' id='jquery-core-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/device.min.js?ver=6.1.5' id='wd-device-library-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.htm"><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/12305"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
+<link rel="https://api.w.org/" href="../wp-json/index.htm"><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/12147"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2">
 <meta name="generator" content="WooCommerce 7.1.0">
 <link rel="canonical" href="index.htm">
-<link rel='shortlink' href='index.htm?p=12305'>
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed-4?url=https%3A%2F%2Fcoolandcool.inventivemind.com.pk%2Fmedia%2F">
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed-5?url=https%3A%2F%2Fcoolandcool.inventivemind.com.pk%2Fmedia%2F&#038;format=xml">
+<link rel='shortlink' href='index.htm?p=12147'>
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed-2?url=https%3A%2F%2Fcoolandcool.inventivemind.com.pk%2Fabout-us%2F">
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed-3?url=https%3A%2F%2Fcoolandcool.inventivemind.com.pk%2Fabout-us%2F&#038;format=xml">
 <meta name="theme-color" content="">					<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 							
 						<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
@@ -127,7 +122,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		
 		</style></head>
 
-<body class="page-template-default page page-id-12305 theme-woodmart woocommerce-no-js wrapper-full-width  categories-accordion-on woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet elementor-default elementor-kit-8 elementor-page elementor-page-12305">
+<body class="page-template-default page page-id-12147 theme-woodmart woocommerce-no-js wrapper-full-width  categories-accordion-on woodmart-ajax-shop-on offcanvas-sidebar-mobile offcanvas-sidebar-tablet elementor-default elementor-kit-8 elementor-page elementor-page-12147">
 			<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>	
 	
 	<div class="website-wrapper">
@@ -144,7 +139,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					</span>
 	</a>
 						<div class="wd-search-dropdown wd-dropdown">
-								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="https://coolandcool.inventivemind.com.pk/" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
 					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products">
 					<input type="hidden" name="post_type" value="product">
 										<button type="submit" class="searchsubmit">
@@ -161,7 +156,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 							</div>
 			</div>
 <div class="wd-header-nav wd-header-secondary-nav text-right" role="navigation">
-	<ul id="menu-main-left-menu" class="menu wd-nav wd-nav-secondary wd-style-underline"><li id="menu-item-12268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12268 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../about-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">About Us</span></a></li>
+	<ul id="menu-main-left-menu" class="menu wd-nav wd-nav-secondary wd-style-underline"><li id="menu-item-12268" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12147 current_page_item menu-item-12268 item-level-0 menu-simple-dropdown wd-event-hover"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">About Us</span></a></li>
 <li id="menu-item-11601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11601 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../shop/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Product</span></a></li>
 </ul></div><!--END MAIN-NAV-->
 </div>
@@ -174,7 +169,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="whb-space-element " style="width:10px;"></div></div>
 <div class="whb-column whb-col-right whb-visible-lg">
 	<div class="wd-header-nav wd-header-secondary-nav text-left" role="navigation">
-	<ul id="menu-main-right-menu" class="menu wd-nav wd-nav-secondary wd-style-underline"><li id="menu-item-12307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12305 current_page_item menu-item-12307 item-level-0 menu-simple-dropdown wd-event-hover"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">Media</span></a></li>
+	<ul id="menu-main-right-menu" class="menu wd-nav wd-nav-secondary wd-style-underline"><li id="menu-item-12307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12307 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../media/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Media</span></a></li>
 <li id="menu-item-12047" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12047 item-level-0 menu-simple-dropdown wd-event-hover"><a href="../contact-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Contact Us</span></a></li>
 </ul></div><!--END MAIN-NAV-->
 
@@ -230,9 +225,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			
 								<div class="main-page-wrapper">
 		
-						<div class="page-title page-title-default title-size-default title-design-centered color-scheme-light" style="background-image: url(../wp-content/uploads/2022/11/m-ackground.jpg);">
+						<div class="page-title page-title-default title-size-default title-design-centered color-scheme-light" style="background-image: url(../wp-content/uploads/2022/11/AU.jpg);">
 					<div class="container">
-																					<h1 class="entry-title title">Media</h1>																		</div>
+																					<h1 class="entry-title title">About Us</h1>																		</div>
 				</div>
 			
 		<!-- MAIN CONTENT AREA -->
@@ -243,10 +238,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="site-content col-lg-12 col-12 col-md-12" role="main">
 
-								<article id="post-12305" class="post-12305 page type-page status-publish hentry">
+								<article id="post-12147" class="post-12147 page type-page status-publish hentry">
 
 					<div class="entry-content">
-								<div data-elementor-type="wp-page" data-elementor-id="12305" class="elementor elementor-12305">
+								<div data-elementor-type="wp-page" data-elementor-id="12147" class="elementor elementor-12147">
 									<section class="elementor-section elementor-top-section elementor-element elementor-element-f268a8a elementor-section-full_width elementor-section-stretched elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="f268a8a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fcd393f" data-id="fcd393f" data-element_type="column">
@@ -287,7 +282,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								<div class="elementor-element elementor-element-dfafe3d elementor-invisible elementor-widget elementor-widget-heading" data-id="dfafe3d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.6 - 15-09-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Media</h2>		</div>
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">About Us</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-400c5b0 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="400c5b0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -301,7 +296,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<div class="elementor-element elementor-element-21f16b7 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="21f16b7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.7.6 - 15-09-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				Cool &#038; Cool a leading international FMCG brand, is known for its exceptional reputation followed by delivering trustworthy and reliable premium quality products. Established in 2004 and marketed by ABC International Ltd., UAE, Cool &#038; Cool offers a diverse selection of high-quality products, which are spread amongst different categories such as Mother &#038; Baby Care, Skin Care, Personal Care, Convenient Wipes, Paper and Detergents. With a market presence in over 25 countries across the globe, Cool &#038; Cool has always stayed put to its commitment towards implementing innovative product development and impeccable customer service.						</div>
 				</div>
 					</div>
 		</div>
@@ -309,36 +304,202 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</section>
 				<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-9f945fa elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="9f945fa" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-da778b1 elementor-hidden-tablet elementor-hidden-mobile elementor-invisible" data-id="da778b1" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:1300}">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-				<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-40ee65d elementor-invisible" style="cursor: pointer;" data-column-clickable="https://coolandcool.inventivemind.com.pk/media/#events" data-column-clickable-blank="_self" data-id="40ee65d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:700}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4e81f68 e-transform elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4e81f68" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.100000000000000088817841970012523233890533447265625,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.6 - 15-09-2022 */
-.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/vision.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Events</h3></div></div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e24dcbf elementor-invisible" style="cursor: pointer;" data-column-clickable="https://coolandcool.inventivemind.com.pk/media/#advertisement" data-column-clickable-blank="_self" data-id="e24dcbf" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
+					<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e24dcbf elementor-invisible" style="cursor: pointer;" data-column-clickable="#missionvision" data-column-clickable-blank="_self" data-id="e24dcbf" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:400}">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-49a0486 e-transform elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="49a0486" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.100000000000000088817841970012523233890533447265625,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/mission.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Advertisement</h3></div></div>		</div>
+			<style>/*! elementor - v3.7.6 - 15-09-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/mission.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Mission</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-f17799f elementor-invisible" style="cursor: pointer;" data-column-clickable="https://coolandcool.inventivemind.com.pk/media/#blogs" data-column-clickable-blank="_self" data-id="f17799f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:1000}">
+				<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-40ee65d elementor-invisible" style="cursor: pointer;" data-column-clickable="#missionvision" data-column-clickable-blank="_self" data-id="40ee65d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:700}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e81f68 e-transform elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="4e81f68" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.100000000000000088817841970012523233890533447265625,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/vision.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Vision</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-f17799f elementor-invisible" style="cursor: pointer;" data-column-clickable="#history" data-column-clickable-blank="_self" data-id="f17799f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:1000}">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-a4e07c3 e-transform elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a4e07c3" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.100000000000000088817841970012523233890533447265625,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/history.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Blogs</h3></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/history.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">History</h3></div></div>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-596fa55 elementor-hidden-tablet elementor-hidden-mobile elementor-invisible" data-id="596fa55" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:1600}">
+				<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-da778b1 elementor-invisible" style="cursor: pointer;" data-column-clickable="#ceosmessage" data-column-clickable-blank="_self" data-id="da778b1" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:1300}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d78a4a e-transform elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="2d78a4a" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.100000000000000088817841970012523233890533447265625,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/chat2.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">CEO's Message</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="make-column-clickable-elementor elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-596fa55 elementor-invisible" style="cursor: pointer;" data-column-clickable="#dosmessage" data-column-clickable-blank="_self" data-id="596fa55" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:1600}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c423eb6 e-transform elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="c423eb6" data-element_type="widget" data-settings="{&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.100000000000000088817841970012523233890533447265625,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="79" height="78" src="../wp-content/uploads/2022/10/chat1.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">DO 's Message</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-5019ceb wd-section-stretch elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5019ceb" data-element_type="section" id="missionvision" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71217e4" data-id="71217e4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-1b6f40f elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="1b6f40f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-876264d" data-id="876264d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ebfdc5c elementor-invisible elementor-widget elementor-widget-heading" data-id="ebfdc5c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Mission</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-913c354 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="913c354" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b119dbf text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="b119dbf" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							To work on the philosophy of high level commitment, manufacturing high quality products and providing services at competitive prices giving the best value to our customers by embracing the forefront of modern trends.
+
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a5445db" data-id="a5445db" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ee96ba7 elementor-invisible elementor-widget elementor-widget-heading" data-id="ee96ba7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Vision</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f318fb8 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="f318fb8" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-396cc64 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="396cc64" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							To be recognized as a leading manufacturing company synonymous with trust, highest standards of service, quality products in compliance with best international practices.						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-0bc1e2f wd-section-stretch elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0bc1e2f" data-element_type="section" id="history" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a46b58" data-id="1a46b58" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-5a7a368 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="5a7a368" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2f68e2a elementor-invisible" data-id="2f68e2a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1f5d70c" data-id="1f5d70c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1b48367 elementor-invisible elementor-widget elementor-widget-heading" data-id="1b48367" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">History</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0128bc0 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="0128bc0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e77f21f text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="e77f21f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>ABC International Ltd. made its start in the United Kingdom in 1992. It’s a core part of renowned ABC Group of companies based in the United Arab Emirates, who have continued to produce and expand into widely diversifying product segments while constructing and maintaining newer companies within the group successfully over the past several years. Furthermore, it’s one of the largest manufacturers of Paper and Hygiene family products in the Gulf region. ABC International Ltd. is located in Jebel Ali Free Zone and one of its business unit by the name of ABC Industries LLC is located in Ras Al Khaimah. In addition, different divisions were created as a result of exponential growth such as Manufacturing, Packaging and Printing and all were led and managed by a team of highly trained professionals who brought their technical expertise to aid in the company’s success with the help of technology and unparalleled production facilities. ABC International has acquired trust and support of its clients by offering a cost-effective process with efficient product solutions that led to the company’s growth. The company’s commitment towards its customers can be easily assessed by customers who have become and continuously grow to become part of the company’s family. With that, ABC International has managed to create its mark in the industry on a global level.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-d4e15d3 wd-section-stretch elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4e15d3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e42d78" data-id="4e42d78" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-bd603e4 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="bd603e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ff071c1" data-id="ff071c1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b5d043e elementor-invisible elementor-widget elementor-widget-heading" data-id="b5d043e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">History</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7ed8926 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="7ed8926" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-46e0091 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="46e0091" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							ABC International Ltd. made its start in the United Kingdom in 1992. It’s a core part of renowned ABC Group of companies based in the United Arab Emirates, who have continued to produce and expand into widely diversifying product segments while constructing and maintaining newer companies within the group successfully over the past several years. Furthermore, it’s one of the largest manufacturers of Paper and Hygiene family products in the Gulf region. ABC International Ltd. is located in Jebel Ali Free Zone and one of its business unit by the name of ABC Industries LLC is located in Ras Al Khaimah. In addition, different divisions were created as a result of exponential growth such as Manufacturing, Packaging and Printing and all were led and managed by a team of highly trained professionals who brought their technical expertise to aid in the company’s success with the help of technology and unparalleled production facilities. ABC International has acquired trust and support of its clients by offering a cost-effective process with efficient product solutions that led to the company’s growth. The company’s commitment towards its customers can be easily assessed by customers who have become and continuously grow to become part of the company’s family. With that, ABC International has managed to create its mark in the industry on a global level.						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-a1d15e3 wd-section-stretch elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a1d15e3" data-element_type="section" id="ceosmessage" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fda5fb6" data-id="fda5fb6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-e4171b7 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="e4171b7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e5ba118" data-id="e5ba118" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-557d9e4 elementor-invisible elementor-widget elementor-widget-heading" data-id="557d9e4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">CEO’s Message</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-33022f0 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="33022f0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f0a84b text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="1f0a84b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Across different business of ABC International, one thing common is our simple philosophy- to innovate efficiently and flexibly in order to supply evolving products to ever-changing markets. Partnering with ABC International Limited helps you to attain these goals effectively.</p><p>We analyze the needs of our customers carefully to determine the right product for their requirements.in the highly competitive market, the product is likely to be put on the shop shelf with many other similar competing items. As a result, it is necessary to identify and differentiate the product as unique according to its brand image. Therefore, our aim is not only to provide the right product which should replicate the brand image, but to produce quality product, which enables brand to create strong and detailed reference.</p><p>On the larger note, we only provide a right product but a future ready solution in which your perceived market challenges are met and transcended. Our goal is to become a pioneer in terms of quality and service.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ce76dda elementor-invisible" data-id="ce76dda" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInRight&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-widget-wrap">
 									</div>
 		</div>
@@ -348,23 +509,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 							</div>
 		</section>
-				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-0bc1e2f wd-section-stretch elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0bc1e2f" data-element_type="section" id="events" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-b06c37f wd-section-stretch elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b06c37f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a46b58" data-id="1a46b58" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b4c294d" data-id="b4c294d" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-a7d14bc elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="a7d14bc" data-element_type="section">
+								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-4efa169 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="4efa169" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-776862c" data-id="776862c" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-1db24fc" data-id="1db24fc" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8f3b4ab elementor-absolute elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-image" data-id="8f3b4ab" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:1700}" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-6a25007 elementor-invisible elementor-widget elementor-widget-heading" data-id="6a25007" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="293" height="96" src="../wp-content/uploads/2022/09/Doddles.png" class="attachment-large size-large" alt="" loading="lazy">															</div>
+			<h2 class="elementor-heading-title elementor-size-default">CEO’s Message</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-920b12d elementor-invisible elementor-widget elementor-widget-heading" data-id="920b12d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Events</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-11ec8c1 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="11ec8c1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-element elementor-element-de0d0f5 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="de0d0f5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
@@ -372,30 +529,44 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 				</div>
 				</div>
+				<div class="elementor-element elementor-element-523f7fc text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="523f7fc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4>“OUR GOAL IS TO BECOME A PIONEER IN TERMS OF QUALITY AND SERVICE”</h4>						</div>
+				</div>
+				<div class="elementor-element elementor-element-90a1ac3 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="90a1ac3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Across different business of ABC International, one thing common is our simple philosophy- to innovate efficiently and flexibly in order to supply evolving products to ever-changing markets. Partnering with ABC International Limited helps you to attain these goals effectively.</p><p>We analyze the needs of our customers carefully to determine the right product for their requirements.in the highly competitive market, the product is likely to be put on the shop shelf with many other similar competing items. As a result, it is necessary to identify and differentiate the product as unique according to its brand image. Therefore, our aim is not only to provide the right product which should replicate the brand image, but to produce quality product, which enables brand to create strong and detailed reference.</p><p>On the larger note, we only provide a right product but a future ready solution in which your perceived market challenges are met and transcended. Our goal is to become a pioneer in terms of quality and service.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b3d810e text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="b3d810e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<h4>M.Arif Pardesi (CEO)<br>
+ABC International Limited</h4>						</div>
+				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-5a7a368 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="5a7a368" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2f68e2a" data-id="2f68e2a" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-84a83c2 elementor-aspect-ratio-169 elementor-invisible elementor-widget elementor-widget-video" data-id="84a83c2" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Xg9QJJeOiTk&quot;,&quot;_animation&quot;:&quot;fadeInLeft&quot;,&quot;_animation_delay&quot;:100,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.6 - 15-09-2022 */
-.elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-container>.elementor-widget-video{width:var(--container-widget-width,100%)}</style>		<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6ae0f15" data-id="6ae0f15" data-element_type="column">
+							</div>
+		</section>
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-42e3ef1 wd-section-stretch elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="42e3ef1" data-element_type="section" id="dosmessage" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-84e91bf" data-id="84e91bf" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-96944ab elementor-invisible elementor-widget elementor-widget-heading" data-id="96944ab" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
+								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-954adaa elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="954adaa" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-955b363 elementor-invisible" data-id="955b363" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-747482c" data-id="747482c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5c38057 elementor-invisible elementor-widget elementor-widget-heading" data-id="5c38057" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">"Don’t Rush Challenge – Har Waqt Hifazat"</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Director Operations Message</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-e0c411f elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="e0c411f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-element elementor-element-d9a895e elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="d9a895e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
@@ -403,20 +574,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-f3321d6 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="f3321d6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-1cfec65 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="1cfec65" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							In this second wave of Covid-19 we needed to be more cautious about all the tiny things which we may ignore to take care of like disinfecting the objects which we more likely to touch on a daily basis, sanitizing and washing our hands etc. Therefore Cool&#038;Cool initiated coming up with whole disinfectant range so it’s convenient to get your hands on the products from under a one roof. We have collaborated with some talented Influencers to remind you guys to take precautions in a fun way, because it’s new normal now.						</div>
-				</div>
-				<div class="elementor-element elementor-element-7119812 elementor-invisible elementor-widget elementor-widget-wd_button" data-id="7119812" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="wd_button.default">
-				<div class="elementor-widget-container">
-					<div class="wd-button-wrapper text-left">
-			<a class="btn btn-style-bordered btn-shape-round btn-size-large btn-color-primary btn-icon-pos-right" href="../events/index.htm">
-				<span class="wd-btn-text" data-elementor-setting-key="text">
-					View More				</span>
-
-							</a>
-		</div>
-				</div>
+							<p>Over the past many years, the ABC International family has grown to serve different major sectors across the world. This includes manufacturing wet wipes, paper products, developing packing solutions etc.</p><p>Keeping our reputation in mind, ABC International Limited has a steady program of development of new products with the corresponding testing and technological classification approvals.</p><p>We do believe that in order to cement our name and position in the world, ABC International Limited will continue to take number of steps to align its strategies keeping in mind that our customers are the priority and we need to provide them valuable new products to help resolve there issues. Furthermore, we are happy of what we have achieved and will continue to work on the plans we have set in motion.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -426,23 +586,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 							</div>
 		</section>
-				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-52fed2c wd-section-stretch elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52fed2c" data-element_type="section" id="advertisement" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-a4b1e5d wd-section-stretch elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a4b1e5d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-86396a8" data-id="86396a8" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27cc607" data-id="27cc607" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-a50fcce elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="a50fcce" data-element_type="section">
+								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-2120974 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="2120974" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-7aec02b" data-id="7aec02b" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ceb9a99" data-id="ceb9a99" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0746a5b elementor-absolute elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-image" data-id="0746a5b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:1700}" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-c3fc385 elementor-invisible elementor-widget elementor-widget-heading" data-id="c3fc385" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="293" height="96" src="../wp-content/uploads/2022/09/Doddles.png" class="attachment-large size-large" alt="" loading="lazy">															</div>
+			<h2 class="elementor-heading-title elementor-size-default">Director Operations Message</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-b728899 elementor-invisible elementor-widget elementor-widget-heading" data-id="b728899" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Advertisement</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-c712fee elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="c712fee" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
+				<div class="elementor-element elementor-element-38366a6 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="38366a6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
@@ -450,367 +606,18 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 		</div>
 				</div>
 				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-9f0e5fd elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="9f0e5fd" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-extended">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-276d5af" data-id="276d5af" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-3339331 elementor-aspect-ratio-169 elementor-invisible elementor-widget elementor-widget-video" data-id="3339331" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=nb-wZo3KNdo&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:100,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-element elementor-element-b6a3989 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="b6a3989" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
+							<h4>“TO BE A MODEL PLAYER IN MANUFACTURING INDUSRTY”</h4>						</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-e3aecbe elementor-invisible elementor-widget elementor-widget-wd_title" data-id="e3aecbe" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="wd_title.default">
+				<div class="elementor-element elementor-element-1de7692 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="1de7692" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-black wd-title-style-default wd-title-size-small text-center">
-
-			
-			<div class="liner-continer">
-				<h4 class="woodmart-title-container title wd-fontsize-m">Cool &amp; Cool Baby Shampoo 30s</h4> 
-							</div>
-
-					</div>
+							<p>Over the past many years, the ABC International family has grown to serve different major sectors across the world. This includes manufacturing wet wipes, paper products, developing packing solutions etc.</p><p>Keeping our reputation in mind, ABC International Limited has a steady program of development of new products with the corresponding testing and technological classification approvals.</p><p>We do believe that in order to cement our name and position in the world, ABC International Limited will continue to take number of steps to align its strategies keeping in mind that our customers are the priority and we need to provide them valuable new products to help resolve there issues. Furthermore, we are happy of what we have achieved and will continue to work on the plans we have set in motion.</p>						</div>
 				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-709d294" data-id="709d294" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-25f1556 elementor-aspect-ratio-169 elementor-invisible elementor-widget elementor-widget-video" data-id="25f1556" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Zv0n4LOjhMo&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-element elementor-element-ef27e48 text-center color-scheme-inherit elementor-invisible elementor-widget elementor-widget-text-editor" data-id="ef27e48" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:400}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-d4d59f0 elementor-invisible elementor-widget elementor-widget-wd_title" data-id="d4d59f0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="wd_title.default">
-				<div class="elementor-widget-container">
-					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-black wd-title-style-default wd-title-size-small text-center">
-
-			
-			<div class="liner-continer">
-				<h4 class="woodmart-title-container title wd-fontsize-m">Cool &amp; Cool Baby Oil English 30s</h4> 
-							</div>
-
-					</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bd82849" data-id="bd82849" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-960c87f elementor-aspect-ratio-169 elementor-invisible elementor-widget elementor-widget-video" data-id="960c87f" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=rW3LXplcLzw&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-e0e3f99 elementor-invisible elementor-widget elementor-widget-wd_title" data-id="e0e3f99" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="wd_title.default">
-				<div class="elementor-widget-container">
-					<div class="title-wrapper set-mb-s reset-last-child wd-title-color-black wd-title-style-default wd-title-size-small text-center">
-
-			
-			<div class="liner-continer">
-				<h4 class="woodmart-title-container title wd-fontsize-m">Cool &amp; Cool Baby Lotion English 30s</h4> 
-							</div>
-
-					</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-7afffc1 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="7afffc1" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f7824c9" data-id="f7824c9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-83bd226 elementor-invisible elementor-widget elementor-widget-wd_button" data-id="83bd226" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="wd_button.default">
-				<div class="elementor-widget-container">
-					<div class="wd-button-wrapper text-center">
-			<a class="btn btn-style-bordered btn-shape-round btn-size-large btn-color-primary btn-icon-pos-right" href="../advertisement/index.htm">
-				<span class="wd-btn-text" data-elementor-setting-key="text">
-					View More				</span>
-
-							</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="wd-negative-gap elementor-section elementor-top-section elementor-element elementor-element-c174164 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="c174164" data-element_type="section" id="blogs" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c2519a6" data-id="c2519a6" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-99a0693 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="99a0693" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c775553" data-id="c775553" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c909c32 elementor-absolute elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-image" data-id="c909c32" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:1000}" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img decoding="async" width="293" height="96" src="../wp-content/uploads/2022/09/Doddles.png" class="attachment-large size-large" alt="" loading="lazy">															</div>
-				</div>
-				<div class="elementor-element elementor-element-06a7741 elementor-invisible elementor-widget elementor-widget-heading" data-id="06a7741" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Blogs</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5adb312 elementor-widget-divider--view-line elementor-invisible elementor-widget elementor-widget-divider" data-id="5adb312" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-d8400d0 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="d8400d0" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-35f7ed6" data-id="35f7ed6" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7799f13 elementor-widget elementor-widget-wd_blog" data-id="7799f13" data-element_type="widget" data-widget_type="wd_blog.default">
-				<div class="elementor-widget-container">
-										<div class="wd-blog-holder blog-shortcode blog-pagination- masonry-container wd-spacing-30 row" id="6428894484ed1" data-paged="1" data-atts="{&quot;post_type&quot;:&quot;post&quot;,&quot;items_per_page&quot;:3,&quot;include&quot;:null,&quot;taxonomies&quot;:&quot;&quot;,&quot;offset&quot;:&quot;&quot;,&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;meta_key&quot;:null,&quot;exclude&quot;:&quot;&quot;,&quot;parts_media&quot;:true,&quot;parts_title&quot;:&quot;1&quot;,&quot;parts_meta&quot;:&quot;1&quot;,&quot;parts_text&quot;:&quot;1&quot;,&quot;parts_btn&quot;:&quot;1&quot;,&quot;img_size&quot;:&quot;large&quot;,&quot;blog_design&quot;:&quot;masonry&quot;,&quot;blog_carousel_design&quot;:null,&quot;blog_columns&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;blog_spacing&quot;:30,&quot;pagination&quot;:&quot;&quot;,&quot;speed&quot;:null,&quot;slides_per_view&quot;:null,&quot;wrap&quot;:null,&quot;autoplay&quot;:null,&quot;hide_pagination_control&quot;:null,&quot;hide_prev_next_buttons&quot;:null,&quot;scroll_per_page&quot;:null,&quot;lazy_loading&quot;:&quot;yes&quot;,&quot;scroll_carousel_init&quot;:null,&quot;ajax_page&quot;:&quot;&quot;,&quot;custom_sizes&quot;:false,&quot;elementor&quot;:true}" data-source="shortcode">
-			
-																			
-<article id="post-11953" class="blog-design-masonry blog-post-loop blog-style-shadow  col-md-4 col-sm-6 col-12 post-11953 post type-post status-publish format-standard has-post-thumbnail hentry category-family">
-	<div class="article-inner">
-					<header class="entry-header">
-									<figure id="carousel-390" class="entry-thumbnail">
-						
-							<div class="post-img-wrapp">
-								<a href="../beat-blemishes-look-gorgeous-control-acne-and-start-good-skincare-habits-for-life/index.htm">
-									<img width="564" height="310" src="../wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/BLOG_IMAGES1-1-1-1.jpg" srcset="">								</a>
-							</div>
-							<div class="post-image-mask">
-								<span></span>
-							</div>
-
-						
-					</figure>
-				
-												<div class="post-date wd-post-date wd-style-with-bg" onclick="">
-				<span class="post-date-day">
-					20				</span>
-				<span class="post-date-month">
-					Sep				</span>
-			</div>
-						
-			</header><!-- .entry-header -->
-
-		<div class="article-body-container">
-			
-									<div class="meta-categories-wrapp"><div class="meta-post-categories wd-post-cat wd-style-with-bg"><a href="../category/family/index.htm" rel="category tag">Family</a></div></div>
-				
-									<h3 class="wd-entities-title title post-title">
-						<a href="../beat-blemishes-look-gorgeous-control-acne-and-start-good-skincare-habits-for-life/index.htm" rel="bookmark">Beat blemishes, look gorgeous, control acne and start good skincare habits for life.</a>
-					</h3>
-				
-									<div class="entry-meta wd-entry-meta">
-									<ul class="entry-meta-list">
-									<li class="modified-date">
-								<time class="updated" datetime="2022-09-20T08:38:21+00:00">
-			September 20, 2022		</time>
-							</li>
-
-					
-											<li class="meta-author">
-												By		
-					<img alt='author-avatar' src="../wp-content/themes/woodmart/images/lazy.png" data-wood-src='https://secure.gravatar.com/avatar/2637e392b24db51b14c49a6502d556e2?s=32&#038;d=mm&#038;r=g' srcset="" data-srcset='https://secure.gravatar.com/avatar/2637e392b24db51b14c49a6502d556e2?s=64&#038;d=mm&#038;r=g 2x' class='wd-lazy-load wd-lazy-fade avatar avatar-32 photo' height='32' width='32' loading='lazy' decoding='async'>		
-		<a href="../author/cool-cool/index.htm" rel="author">
-			<span class="vcard author author_name">
-				<span class="fn">Cool Cool</span>
-			</span>
-		</a>
-								</li>
-					
-					
-											<li class="meta-reply">
-							<a href="../beat-blemishes-look-gorgeous-control-acne-and-start-good-skincare-habits-for-life/index.htm#respond"><span class="replies-count">0</span> <span class="replies-count-label">comments</span></a>						</li>
-												</ul>
-							</div><!-- .entry-meta -->
-												
-							<div class="entry-content wd-entry-content">
-					A best time starter in any girl life is surely a teenager life.  Every girl is conscious about the beauty, looks and classy trends. We ...<p class="read-more-section"><a class="btn-read-more more-link" href="../beat-blemishes-look-gorgeous-control-acne-and-start-good-skincare-habits-for-life/index.htm">Continue reading</a></p>									</div><!-- .entry-content -->
-			
-			
-					</div>
-	</div>
-</article><!-- #post -->
-
-
-																			
-<article id="post-11950" class="blog-design-masonry blog-post-loop blog-style-shadow  col-md-4 col-sm-6 col-12 first  post-11950 post type-post status-publish format-standard has-post-thumbnail hentry category-family">
-	<div class="article-inner">
-					<header class="entry-header">
-									<figure id="carousel-977" class="entry-thumbnail">
-						
-							<div class="post-img-wrapp">
-								<a href="../how-to-choose-baby-wipes/index.htm">
-									<img width="564" height="310" src="../wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/Choose-Baby-Wipes-1-1-1.jpg" srcset="">								</a>
-							</div>
-							<div class="post-image-mask">
-								<span></span>
-							</div>
-
-						
-					</figure>
-				
-												<div class="post-date wd-post-date wd-style-with-bg" onclick="">
-				<span class="post-date-day">
-					20				</span>
-				<span class="post-date-month">
-					Sep				</span>
-			</div>
-						
-			</header><!-- .entry-header -->
-
-		<div class="article-body-container">
-			
-									<div class="meta-categories-wrapp"><div class="meta-post-categories wd-post-cat wd-style-with-bg"><a href="../category/family/index.htm" rel="category tag">Family</a></div></div>
-				
-									<h3 class="wd-entities-title title post-title">
-						<a href="../how-to-choose-baby-wipes/index.htm" rel="bookmark">How to Choose Baby Wipes</a>
-					</h3>
-				
-									<div class="entry-meta wd-entry-meta">
-									<ul class="entry-meta-list">
-									<li class="modified-date">
-								<time class="updated" datetime="2022-09-20T08:21:48+00:00">
-			September 20, 2022		</time>
-							</li>
-
-					
-											<li class="meta-author">
-												By		
-					<img alt='author-avatar' src="../wp-content/themes/woodmart/images/lazy.png" data-wood-src='https://secure.gravatar.com/avatar/2637e392b24db51b14c49a6502d556e2?s=32&#038;d=mm&#038;r=g' srcset="" data-srcset='https://secure.gravatar.com/avatar/2637e392b24db51b14c49a6502d556e2?s=64&#038;d=mm&#038;r=g 2x' class='wd-lazy-load wd-lazy-fade avatar avatar-32 photo' height='32' width='32' loading='lazy' decoding='async'>		
-		<a href="../author/cool-cool/index.htm" rel="author">
-			<span class="vcard author author_name">
-				<span class="fn">Cool Cool</span>
-			</span>
-		</a>
-								</li>
-					
-					
-											<li class="meta-reply">
-							<a href="../how-to-choose-baby-wipes/index.htm#respond"><span class="replies-count">0</span> <span class="replies-count-label">comments</span></a>						</li>
-												</ul>
-							</div><!-- .entry-meta -->
-												
-							<div class="entry-content wd-entry-content">
-					
-
-
-
-Baby Wipes are one of the essentials, a mother needs just right from her baby’s birth and their selection is equally vital. It ...<p class="read-more-section"><a class="btn-read-more more-link" href="../how-to-choose-baby-wipes/index.htm">Continue reading</a></p>									</div><!-- .entry-content -->
-			
-			
-					</div>
-	</div>
-</article><!-- #post -->
-
-
-																			
-<article id="post-11944" class="blog-design-masonry blog-post-loop blog-style-shadow  col-md-4 col-sm-6 col-12 post-11944 post type-post status-publish format-standard has-post-thumbnail hentry category-family">
-	<div class="article-inner">
-					<header class="entry-header">
-									<figure id="carousel-202" class="entry-thumbnail">
-						
-							<div class="post-img-wrapp">
-								<a href="../a-mothers-guide-to-a-healthy-start/index.htm">
-									<img width="564" height="310" src="../wp-content/themes/woodmart/images/lazy.png" class="attachment-large size-large wd-lazy-load wd-lazy-fade" alt="" decoding="async" loading="lazy" data-wood-src="https://coolandcool.inventivemind.com.pk/wp-content/uploads/2022/09/BLOG_IMAGES3-1-1-1.jpg" srcset="">								</a>
-							</div>
-							<div class="post-image-mask">
-								<span></span>
-							</div>
-
-						
-					</figure>
-				
-												<div class="post-date wd-post-date wd-style-with-bg" onclick="">
-				<span class="post-date-day">
-					20				</span>
-				<span class="post-date-month">
-					Sep				</span>
-			</div>
-						
-			</header><!-- .entry-header -->
-
-		<div class="article-body-container">
-			
-									<div class="meta-categories-wrapp"><div class="meta-post-categories wd-post-cat wd-style-with-bg"><a href="../category/family/index.htm" rel="category tag">Family</a></div></div>
-				
-									<h3 class="wd-entities-title title post-title">
-						<a href="../a-mothers-guide-to-a-healthy-start/index.htm" rel="bookmark">“A mother’s guide to a healthy start</a>
-					</h3>
-				
-									<div class="entry-meta wd-entry-meta">
-									<ul class="entry-meta-list">
-									<li class="modified-date">
-								<time class="updated" datetime="2022-09-20T08:16:58+00:00">
-			September 20, 2022		</time>
-							</li>
-
-					
-											<li class="meta-author">
-												By		
-					<img alt='author-avatar' src="../wp-content/themes/woodmart/images/lazy.png" data-wood-src='https://secure.gravatar.com/avatar/2637e392b24db51b14c49a6502d556e2?s=32&#038;d=mm&#038;r=g' srcset="" data-srcset='https://secure.gravatar.com/avatar/2637e392b24db51b14c49a6502d556e2?s=64&#038;d=mm&#038;r=g 2x' class='wd-lazy-load wd-lazy-fade avatar avatar-32 photo' height='32' width='32' loading='lazy' decoding='async'>		
-		<a href="../author/cool-cool/index.htm" rel="author">
-			<span class="vcard author author_name">
-				<span class="fn">Cool Cool</span>
-			</span>
-		</a>
-								</li>
-					
-					
-											<li class="meta-reply">
-							<a href="../a-mothers-guide-to-a-healthy-start/index.htm#respond"><span class="replies-count">0</span> <span class="replies-count-label">comments</span></a>						</li>
-												</ul>
-							</div><!-- .entry-meta -->
-												
-							<div class="entry-content wd-entry-content">
-					I attended a seminar on the health and hygiene of children. Which was informative and created awareness about the importance of child h...<p class="read-more-section"><a class="btn-read-more more-link" href="../a-mothers-guide-to-a-healthy-start/index.htm">Continue reading</a></p>									</div><!-- .entry-content -->
-			
-			
-					</div>
-	</div>
-</article><!-- #post -->
-
-
-				
-							</div>
-			
-								</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="wd-negative-gap elementor-section elementor-inner-section elementor-element elementor-element-6bf5508 elementor-section-boxed elementor-section-height-default elementor-section-height-default wd-section-disabled" data-id="6bf5508" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4216e37" data-id="4216e37" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-588a68e elementor-invisible elementor-widget elementor-widget-wd_button" data-id="588a68e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="wd_button.default">
-				<div class="elementor-widget-container">
-					<div class="wd-button-wrapper text-center">
-			<a class="btn btn-style-bordered btn-shape-round btn-size-large btn-color-primary btn-icon-pos-right" href="../blogs/index.htm">
-				<span class="wd-btn-text" data-elementor-setting-key="text">
-					View More				</span>
-
-							</a>
-		</div>
-				</div>
+							<h4>Farhan Sangani<br>
+Director Operations</h4>						</div>
 				</div>
 					</div>
 		</div>
@@ -891,7 +698,7 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 <div class="wd-close-side"></div>
 			<a href="#" class="scrollToTop"></a>
 		<div class="mobile-nav wd-side-hidden wd-left">			<div class="wd-search-form">
-								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="https://coolandcool.inventivemind.com.pk/" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+								<form role="search" method="get" class="searchform  woodmart-ajax-search" action="" data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
 					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products">
 					<input type="hidden" name="post_type" value="product">
 										<button type="submit" class="searchsubmit">
@@ -907,9 +714,9 @@ Tel : <a href="tel:+92-21-32791695" class="ftr-tel">+92-21-32791695</a><br>
 											</div>
 							</div>
 		<ul id="menu-main-mobile-menu" class="mobile-pages-menu wd-nav wd-nav-mobile wd-active"><li id="menu-item-12540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-12540 item-level-0"><a href="../index.htm" class="woodmart-nav-link"><span class="nav-link-text">Home</span></a></li>
-<li id="menu-item-12390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12390 item-level-0"><a href="../about-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">About Us</span></a></li>
+<li id="menu-item-12390" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12147 current_page_item menu-item-12390 item-level-0"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">About Us</span></a></li>
 <li id="menu-item-11612" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11612 item-level-0"><a href="../shop/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Product</span></a></li>
-<li id="menu-item-12389" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-12305 current_page_item menu-item-12389 item-level-0"><a href="index.htm" class="woodmart-nav-link"><span class="nav-link-text">Media</span></a></li>
+<li id="menu-item-12389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12389 item-level-0"><a href="../media/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Media</span></a></li>
 <li id="menu-item-12391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12391 item-level-0"><a href="../contact-us/index.htm" class="woodmart-nav-link"><span class="nav-link-text">Contact Us</span></a></li>
 </ul>
 		</div><!--END MOBILE-NAV-->			<div class="cart-widget-side wd-side-hidden wd-right">
@@ -979,14 +786,14 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":12305,"title":"Media%20%E2%80%93%20Cool%20%26%20Cool","excerpt":"","featuredImage":false}};
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":12305,"title":"Media%20%E2%80%93%20Cool%20%26%20Cool","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":12147,"title":"About%20Us%20%E2%80%93%20Cool%20%26%20Cool","excerpt":"","featuredImage":false}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":12147,"title":"About%20Us%20%E2%80%93%20Cool%20%26%20Cool","excerpt":"","featuredImage":false}};
 </script>
 <script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.6' id='elementor-frontend-js'></script>
 <script type='text/javascript' id='woodmart-theme-js-extra'>
 /* <![CDATA[ */
 var woodmart_settings = {"menu_storage_key":"woodmart_4355cd7dcb43fef12140efcd31511360","ajax_dropdowns_save":"1","photoswipe_close_on_scroll":"1","woocommerce_ajax_add_to_cart":"yes","variation_gallery_storage_method":"new","elementor_no_gap":"enabled","adding_to_cart":"Processing","added_to_cart":"Product was successfully added to your cart.","continue_shopping":"Continue shopping","view_cart":"View Cart","go_to_checkout":"Checkout","loading":"Loading...","countdown_days":"days","countdown_hours":"hr","countdown_mins":"min","countdown_sec":"sc","cart_url":"https:\/\/coolandcool.inventivemind.com.pk\/cart\/","ajaxurl":"https:\/\/coolandcool.inventivemind.com.pk\/wp-admin\/admin-ajax.php","add_to_cart_action":"widget","added_popup":"no","categories_toggle":"yes","enable_popup":"no","popup_delay":"2000","popup_event":"time","popup_scroll":"1000","popup_pages":"0","promo_popup_hide_mobile":"no","product_images_captions":"no","ajax_add_to_cart":"1","all_results":"View all results","product_gallery":{"images_slider":true,"thumbs_slider":{"enabled":true,"position":"bottom","items":{"desktop":4,"tablet_landscape":3,"tablet":4,"mobile":3,"vertical_items":3}}},"zoom_enable":"yes","ajax_scroll":"yes","ajax_scroll_class":".main-page-wrapper","ajax_scroll_offset":"100","infinit_scroll_offset":"300","product_slider_auto_height":"no","price_filter_action":"click","product_slider_autoplay":"","close":"Close (Esc)","share_fb":"Share on Facebook","pin_it":"Pin it","tweet":"Tweet","download_image":"Download image","cookies_version":"1","header_banner_version":"1","promo_version":"1","header_banner_close_btn":"yes","header_banner_enabled":"no","whb_header_clone":"\n    <div class=\"whb-sticky-header whb-clone whb-main-header <%wrapperClasses%>\">\n        <div class=\"<%cloneClass%>\">\n            <div class=\"container\">\n                <div class=\"whb-flex-row whb-general-header-inner\">\n                    <div class=\"whb-column whb-col-left whb-visible-lg\">\n                        <%.site-logo%>\n                    <\/div>\n                    <div class=\"whb-column whb-col-center whb-visible-lg\">\n                        <%.wd-header-main-nav%>\n                    <\/div>\n                    <div class=\"whb-column whb-col-right whb-visible-lg\">\n                        <%.wd-header-my-account%>\n                        <%.wd-header-search:not(.wd-header-search-mobile)%>\n\t\t\t\t\t\t<%.wd-header-wishlist%>\n                        <%.wd-header-compare%>\n                        <%.wd-header-cart%>\n                        <%.wd-header-fs-nav%>\n                    <\/div>\n                    <%.whb-mobile-left%>\n                    <%.whb-mobile-center%>\n                    <%.whb-mobile-right%>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n","pjax_timeout":"5000","split_nav_fix":"","shop_filters_close":"no","woo_installed":"1","base_hover_mobile_click":"no","centered_gallery_start":"1","quickview_in_popup_fix":"","one_page_menu_offset":"150","hover_width_small":"1","is_multisite":"","current_blog_id":"1","swatches_scroll_top_desktop":"no","swatches_scroll_top_mobile":"no","lazy_loading_offset":"0","add_to_cart_action_timeout":"no","add_to_cart_action_timeout_number":"3","single_product_variations_price":"no","google_map_style_text":"Custom style","quick_shop":"yes","sticky_product_details_offset":"150","preloader_delay":"300","comment_images_upload_size_text":"Some files are too large. Allowed file size is 1 MB.","comment_images_count_text":"You can upload up to 3 images to your review.","comment_images_upload_mimes_text":"You are allowed to upload images only in png, jpeg formats.","comment_images_added_count_text":"Added %s image(s)","comment_images_upload_size":"1048576","comment_images_count":"3","search_input_padding":"no","comment_images_upload_mimes":{"jpg|jpeg|jpe":"image\/jpeg","png":"image\/png"},"home_url":"https:\/\/coolandcool.inventivemind.com.pk\/","shop_url":"https:\/\/coolandcool.inventivemind.com.pk\/shop\/","age_verify":"no","age_verify_expires":"30","cart_redirect_after_add":"no","swatches_labels_name":"no","product_categories_placeholder":"Select a category","product_categories_no_results":"No matches found","cart_hash_key":"wc_cart_hash_0fdb285cc9707123860de8b3dc70cb94","fragment_name":"wc_fragments_0fdb285cc9707123860de8b3dc70cb94","photoswipe_template":"<div class=\"pswp\" aria-hidden=\"true\" role=\"dialog\" tabindex=\"-1\"><div class=\"pswp__bg\"><\/div><div class=\"pswp__scroll-wrap\"><div class=\"pswp__container\"><div class=\"pswp__item\"><\/div><div class=\"pswp__item\"><\/div><div class=\"pswp__item\"><\/div><\/div><div class=\"pswp__ui pswp__ui--hidden\"><div class=\"pswp__top-bar\"><div class=\"pswp__counter\"><\/div><button class=\"pswp__button pswp__button--close\" title=\"Close (Esc)\"><\/button> <button class=\"pswp__button pswp__button--share\" title=\"Share\"><\/button> <button class=\"pswp__button pswp__button--fs\" title=\"Toggle fullscreen\"><\/button> <button class=\"pswp__button pswp__button--zoom\" title=\"Zoom in\/out\"><\/button><div class=\"pswp__preloader\"><div class=\"pswp__preloader__icn\"><div class=\"pswp__preloader__cut\"><div class=\"pswp__preloader__donut\"><\/div><\/div><\/div><\/div><\/div><div class=\"pswp__share-modal pswp__share-modal--hidden pswp__single-tap\"><div class=\"pswp__share-tooltip\"><\/div><\/div><button class=\"pswp__button pswp__button--arrow--left\" title=\"Previous (arrow left)\"><\/button> <button class=\"pswp__button pswp__button--arrow--right\" title=\"Next (arrow right)>\"><\/button><div class=\"pswp__caption\"><div class=\"pswp__caption__center\"><\/div><\/div><\/div><\/div><\/div>","load_more_button_page_url":"yes","menu_item_hover_to_click_on_responsive":"no","clear_menu_offsets_on_resize":"yes","three_sixty_framerate":"60","site_width":"1222","combined_css":"no","slider_distortion_effect":"sliderWithNoise"};
-var woodmart_page_css = {"wd-widget-wd-recent-posts-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-wd-recent-posts.min.css","wd-widget-nav-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-nav.min.css","wd-widget-wd-layered-nav-product-cat-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-wd-layered-nav-product-cat.min.css","wd-widget-product-list-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-product-list.min.css","wd-widget-slider-price-filter-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-slider-price-filter.min.css","wd-footer-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/footer-base.min.css","wd-wp-gutenberg-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/wp-gutenberg.min.css","wd-wpcf7-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-wpcf7.min.css","wd-mc4wp-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-mc4wp.min.css","wd-revolution-slider-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-revolution-slider.min.css","wd-elementor-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-elementor-base.min.css","wd-woocommerce-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woocommerce-base.min.css","wd-header-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-base.min.css","wd-mod-tools-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/mod-tools.min.css","wd-header-search-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-search.min.css","wd-header-cart-side-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart-side.min.css","wd-header-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart.min.css","wd-widget-shopping-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-shopping-cart.min.css","wd-page-title-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/page-title.min.css","wd-section-title-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/el-section-title.min.css","wd-blog-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/blog-base.min.css","wd-blog-loop-base-old-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/blog-loop-base-old.min.css","wd-blog-loop-design-masonry-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/blog-loop-design-masonry.min.css","wd-lazy-loading-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/opt-lazy-load.min.css","wd-scroll-top-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/opt-scrolltotop.min.css"};
+var woodmart_page_css = {"wd-widget-wd-recent-posts-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-wd-recent-posts.min.css","wd-widget-nav-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/widget-nav.min.css","wd-widget-wd-layered-nav-product-cat-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-wd-layered-nav-product-cat.min.css","wd-widget-product-list-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-product-list.min.css","wd-widget-slider-price-filter-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-slider-price-filter.min.css","wd-footer-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/footer-base.min.css","wd-wp-gutenberg-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/wp-gutenberg.min.css","wd-wpcf7-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-wpcf7.min.css","wd-mc4wp-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-mc4wp.min.css","wd-revolution-slider-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-revolution-slider.min.css","wd-elementor-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/int-elementor-base.min.css","wd-woocommerce-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woocommerce-base.min.css","wd-header-base-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-base.min.css","wd-mod-tools-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/mod-tools.min.css","wd-header-search-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-search.min.css","wd-header-cart-side-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart-side.min.css","wd-header-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/header-el-cart.min.css","wd-widget-shopping-cart-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/woo-widget-shopping-cart.min.css","wd-page-title-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/page-title.min.css","wd-scroll-top-css":"https:\/\/coolandcool.inventivemind.com.pk\/wp-content\/themes\/woodmart\/css\/parts\/opt-scrolltotop.min.css"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/helpers.min.js?ver=6.1.5' id='woodmart-theme-js'></script>
@@ -999,10 +806,6 @@ var woodmart_page_css = {"wd-widget-wd-recent-posts-css":"https:\/\/coolandcool.
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/menu/menuSetUp.min.js?ver=6.1.5' id='wd-menu-setup-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/onRemoveFromCart.min.js?ver=6.1.5' id='wd-on-remove-from-cart-js'></script>
 <script type='text/javascript' src='../wp-content/plugins/make-column-clickable-elementor/assets/js/make-column-clickable.js?ver=1.4.0' id='make-column-clickable-elementor-js'></script>
-<script type='text/javascript' src='../wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/libs/isotope-bundle.min.js?ver=6.1.5' id='wd-isotope-bundle-library-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/masonryLayout.min.js?ver=6.1.5' id='wd-masonry-layout-js'></script>
-<script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/lazyLoading.min.js?ver=6.1.5' id='wd-lazy-loading-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/global/scrollTop.min.js?ver=6.1.5' id='wd-scroll-top-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/menu/mobileNavigation.min.js?ver=6.1.5' id='wd-mobile-navigation-js'></script>
 <script type='text/javascript' src='../wp-content/themes/woodmart/js/scripts/wc/cartWidget.min.js?ver=6.1.5' id='wd-cart-widget-js'></script>
